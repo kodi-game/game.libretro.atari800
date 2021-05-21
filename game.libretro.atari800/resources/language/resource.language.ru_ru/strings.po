@@ -22,11 +22,11 @@ msgid "Settings"
 msgstr "Настройки"
 
 msgctxt "#30001"
-msgid "Hi-Res Artifacting"
+msgid "Atari System"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Boot from Cassette"
+msgid "Video Standard"
 msgstr ""
 
 msgctxt "#30003"
@@ -34,29 +34,29 @@ msgid "Internal BASIC (hold OPTION on boot)"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Retroarch Keyboard type"
-msgstr ""
-
-msgctxt "#30005"
-msgid "Video Standard"
-msgstr ""
-
-msgctxt "#30006"
-msgid "Autodetect A5200 CartType"
-msgstr ""
-
-msgctxt "#30007"
-msgid "Joy hack A5200 for robotron"
-msgstr ""
-
-msgctxt "#30008"
-msgid "Internal resolution"
-msgstr ""
-
-msgctxt "#30009"
 msgid "SIO Acceleration"
 msgstr ""
 
+msgctxt "#30005"
+msgid "Boot from Cassette"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Hi-Res Artifacting"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Autodetect A5200 CartType"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Joy hack A5200 for robotron"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Internal resolution"
+msgstr ""
+
 msgctxt "#30010"
-msgid "Atari System"
+msgid "Retroarch Keyboard type"
 msgstr ""
