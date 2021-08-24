@@ -14,14 +14,10 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-
-Supported files: .xfd, .atr, .cdm, .cas, .bin, .a52, .zip, .atx, .car, .com, .xex</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.atari800</source>
 		<summary lang="en_GB">Atari - 5200 (Atari800) 3.1.0</summary>
-		<description lang="en_GB">Atari800 is an emulator for Atari 8-bit computer systems (400, 800, 600 XL, 800XL, 130XE and 5200).
-
-Supported files: .xfd, .atr, .cdm, .cas, .bin, .a52, .zip, .atx, .car, .com, .xex</description>
+		<description lang="en_GB">Atari800 is an emulator for Atari 8-bit computer systems (400, 800, 600 XL, 800XL, 130XE and 5200).[CR][CR]Supported files: .xfd, .atr, .cdm, .cas, .bin, .a52, .zip, .atx, .car, .com, .xex</description>
 	</extension>
 </addon>
