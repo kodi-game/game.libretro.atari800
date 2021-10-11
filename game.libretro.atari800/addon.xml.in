@@ -23,5 +23,6 @@
 		</assets>
 		<summary lang="en_GB">Atari - 5200 (Atari800) 3.1.0</summary>
 		<description lang="en_GB">Atari800 is an emulator for Atari 8-bit computer systems (400, 800, 600 XL, 800XL, 130XE and 5200).</description>
+		<description lang="zh_CN">Atari800 是雅达利8位计算机系统（400、800、600XL、800XL、130XE 和 5200）的仿真器。</description>
 	</extension>
 </addon>
