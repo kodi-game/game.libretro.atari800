@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.atari800"
 		name="Atari - 5200 (Atari800)"
-		version="3.1.0.17"
+		version="3.1.0.18"
 		provider-name="Petr Stehlik">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
