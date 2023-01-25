@@ -13,7 +13,7 @@ GPLv2
 
 ### Icon
 
-![Icon](game.libretro.atari800/resources/icon.png)
+![Atari - 5200 (Atari800) icon](game.libretro.atari800/resources/icon.png)
 
 ### Fanart
 
