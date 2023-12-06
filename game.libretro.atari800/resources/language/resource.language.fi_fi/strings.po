@@ -37,29 +37,9 @@ msgctxt "#30002"
 msgid "Video Standard"
 msgstr "Videostandardi"
 
-msgctxt "#30003"
-msgid "Internal BASIC (hold OPTION on boot)"
-msgstr "Sisäinen PERUS (säilytä VALINTA käynnistyksessä)"
-
 msgctxt "#30004"
 msgid "SIO Acceleration"
 msgstr "SIO-kiihdytys"
-
-msgctxt "#30005"
-msgid "Boot from Cassette"
-msgstr "Käynnistä kasetilta"
-
-msgctxt "#30006"
-msgid "Hi-Res Artifacting"
-msgstr "Korkearesoluutioinen artefakointi"
-
-msgctxt "#30007"
-msgid "Autodetect A5200 CartType"
-msgstr "A5200 CartType -automaattinen tunnistus"
-
-msgctxt "#30008"
-msgid "Joy hack A5200 for robotron"
-msgstr "Joy-hakkerointi A5200 robotronille"
 
 msgctxt "#30009"
 msgid "Internal resolution"
@@ -68,3 +48,67 @@ msgstr "Sisäinen resoluutio"
 msgctxt "#30010"
 msgid "Retroarch Keyboard type"
 msgstr "Retroarch-näppäimistön tyyppi"
+
+msgctxt "#30011"
+msgid "Hi-Res Artifacting Mode"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Controller Hacks"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Activate Paddle Mode"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Paddle Movement Speed"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Digital Joystick Sensitivity"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Analog Joystick Sensitivity"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Analog Joystick Deadzone"
+msgstr ""
+
+msgctxt "#30018"
+msgid "Atari Keyboard Defines"
+msgstr ""
+
+msgctxt "#30019"
+msgid "Internal BASIC (hold OPTION on boot) (Restart)"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Boot from Cassette (Reboot)"
+msgstr ""
+
+msgctxt "#30021"
+msgid "Autodetect Atari Cartridge Type (Restart)"
+msgstr ""
+
+#~ msgctxt "#30003"
+#~ msgid "Internal BASIC (hold OPTION on boot)"
+#~ msgstr "Sisäinen PERUS (säilytä VALINTA käynnistyksessä)"
+
+#~ msgctxt "#30005"
+#~ msgid "Boot from Cassette"
+#~ msgstr "Käynnistä kasetilta"
+
+#~ msgctxt "#30006"
+#~ msgid "Hi-Res Artifacting"
+#~ msgstr "Korkearesoluutioinen artefakointi"
+
+#~ msgctxt "#30007"
+#~ msgid "Autodetect A5200 CartType"
+#~ msgstr "A5200 CartType -automaattinen tunnistus"
+
+#~ msgctxt "#30008"
+#~ msgid "Joy hack A5200 for robotron"
+#~ msgstr "Joy-hakkerointi A5200 robotronille"

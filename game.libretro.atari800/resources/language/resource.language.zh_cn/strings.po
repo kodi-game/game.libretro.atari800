@@ -37,29 +37,9 @@ msgctxt "#30002"
 msgid "Video Standard"
 msgstr "视频标准"
 
-msgctxt "#30003"
-msgid "Internal BASIC (hold OPTION on boot)"
-msgstr "内置 BASIC（启动时按住 OPTION）"
-
 msgctxt "#30004"
 msgid "SIO Acceleration"
 msgstr "SIO 加速"
-
-msgctxt "#30005"
-msgid "Boot from Cassette"
-msgstr "从卡带引导"
-
-msgctxt "#30006"
-msgid "Hi-Res Artifacting"
-msgstr "高分辨率伪影"
-
-msgctxt "#30007"
-msgid "Autodetect A5200 CartType"
-msgstr "自动检测 A5200 CartType"
-
-msgctxt "#30008"
-msgid "Joy hack A5200 for robotron"
-msgstr "针对 robotron 游戏的 hack A5200"
 
 msgctxt "#30009"
 msgid "Internal resolution"
@@ -68,3 +48,67 @@ msgstr "内部分辨率"
 msgctxt "#30010"
 msgid "Retroarch Keyboard type"
 msgstr "Retroarch 键盘类型"
+
+msgctxt "#30011"
+msgid "Hi-Res Artifacting Mode"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Controller Hacks"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Activate Paddle Mode"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Paddle Movement Speed"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Digital Joystick Sensitivity"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Analog Joystick Sensitivity"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Analog Joystick Deadzone"
+msgstr ""
+
+msgctxt "#30018"
+msgid "Atari Keyboard Defines"
+msgstr ""
+
+msgctxt "#30019"
+msgid "Internal BASIC (hold OPTION on boot) (Restart)"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Boot from Cassette (Reboot)"
+msgstr ""
+
+msgctxt "#30021"
+msgid "Autodetect Atari Cartridge Type (Restart)"
+msgstr ""
+
+#~ msgctxt "#30003"
+#~ msgid "Internal BASIC (hold OPTION on boot)"
+#~ msgstr "内置 BASIC（启动时按住 OPTION）"
+
+#~ msgctxt "#30005"
+#~ msgid "Boot from Cassette"
+#~ msgstr "从卡带引导"
+
+#~ msgctxt "#30006"
+#~ msgid "Hi-Res Artifacting"
+#~ msgstr "高分辨率伪影"
+
+#~ msgctxt "#30007"
+#~ msgid "Autodetect A5200 CartType"
+#~ msgstr "自动检测 A5200 CartType"
+
+#~ msgctxt "#30008"
+#~ msgid "Joy hack A5200 for robotron"
+#~ msgstr "针对 robotron 游戏的 hack A5200"
