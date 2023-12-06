@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.atari800"
 		name="Atari - 5200 (Atari800)"
-		version="3.1.0.28"
+		version="3.1.0.29"
 		provider-name="Petr Stehlik">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -9,7 +9,7 @@
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms></platforms>
-		<extensions>xfd|atr|cdm|cas|bin|a52|zip|atx|car|rom|com|xex</extensions>
+		<extensions>xfd|atr|dcm|cas|bin|a52|zip|atx|car|rom|com|xex|m3u</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
 		<requires_opengl>false</requires_opengl>

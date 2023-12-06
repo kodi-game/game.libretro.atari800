@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
 	<category label="30000">
-		<setting label="30001" type="select" id="atari800_system" values="400/800 (OS B)|800XL (64K)|130XE (128K)|Modern XL/XE(320K CS)|Modern XL/XE(576K)|Modern XL/XE(1088K)|5200" default="400/800 (OS B)"/>
 		<setting label="30002" type="select" id="atari800_ntscpal" values="NTSC|PAL" default="NTSC"/>
-		<setting label="30003" type="select" id="atari800_internalbasic" values="disabled|enabled" default="disabled"/>
-		<setting label="30004" type="select" id="atari800_sioaccel" values="disabled|enabled" default="disabled"/>
-		<setting label="30005" type="select" id="atari800_cassboot" values="disabled|enabled" default="disabled"/>
-		<setting label="30006" type="select" id="atari800_artifacting" values="disabled|enabled" default="disabled"/>
-		<setting label="30007" type="select" id="atari800_opt1" values="disabled|enabled" default="disabled"/>
-		<setting label="30008" type="select" id="atari800_opt2" values="disabled|enabled" default="disabled"/>
+		<setting label="30011" type="select" id="atari800_artifacting_mode" values="none|blue/brown 1|blue/brown 2|GTIA|CTIA" default="none"/>
 		<setting label="30009" type="select" id="atari800_resolution" values="336x240|320x240|384x240|384x272|384x288|400x300" default="336x240"/>
+		<setting label="30012" type="select" id="atari800_opt2" values="none|enabled|Swap Ports" default="none"/>
+		<setting label="30013" type="select" id="paddle_active" values="disabled|enabled" default="disabled"/>
+		<setting label="30014" type="select" id="paddle_movement_speed" values="3|1|2|4|5|6|7|8|9" default="3"/>
+		<setting label="30015" type="select" id="pot_digital_sensitivity" values="100|5|10|15|20|25|30|35|40|45|50|55|60|65|70|75|80|85|90|95" default="100"/>
+		<setting label="30016" type="select" id="pot_analog_sensitivity" values="100|5|10|15|20|25|30|35|40|45|50|55|60|65|70|75|80|85|90|95" default="100"/>
+		<setting label="30017" type="select" id="pot_analog_deadzone" values="15|0|3|5|7|10|13|17|20|23|25|27|30" default="15"/>
 		<setting label="30010" type="select" id="atari800_keyboard" values="poll|callback" default="poll"/>
+		<setting label="30018" type="select" id="keyboard_defines" values="informational" default="informational"/>
+		<setting label="30001" type="select" id="atari800_system" values="400/800 (OS B)|800XL (64K)|130XE (128K)|Modern XL/XE(320K CS)|Modern XL/XE(576K)|Modern XL/XE(1088K)|5200" default="400/800 (OS B)"/>
+		<setting label="30019" type="select" id="atari800_internalbasic" values="disabled|enabled" default="disabled"/>
+		<setting label="30004" type="select" id="atari800_sioaccel" values="enabled|disabled" default="enabled"/>
+		<setting label="30020" type="select" id="atari800_cassboot" values="disabled|enabled" default="disabled"/>
+		<setting label="30021" type="select" id="atari800_opt1" values="disabled|enabled" default="disabled"/>
 	</category>
 </settings>
