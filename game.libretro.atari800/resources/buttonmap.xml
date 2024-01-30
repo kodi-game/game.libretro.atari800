@@ -18,14 +18,14 @@
         <feature name="lefttrigger" mapto="RETRO_DEVICE_ID_JOYPAD_L3"/>
         <feature name="righttrigger" mapto="RETRO_DEVICE_ID_JOYPAD_R3"/>
     </controller>
-   <controller id="game.controller.mouse" type="RETRO_DEVICE_MOUSE">
+    <controller id="game.controller.mouse" type="RETRO_DEVICE_MOUSE">
         <feature name="left" mapto="RETRO_DEVICE_ID_MOUSE_LEFT"/>
         <feature name="right" mapto="RETRO_DEVICE_ID_MOUSE_RIGHT"/>
         <feature name="button4" mapto="RETRO_DEVICE_ID_MOUSE_X"/>
         <feature name="button5" mapto="RETRO_DEVICE_ID_MOUSE_Y"/>
         <feature name="wheelup" mapto="RETRO_DEVICE_ID_MOUSE_WHEELUP"/>
         <feature name="wheeldown" mapto="RETRO_DEVICE_ID_MOUSE_WHEELDOWN"/>
-    </controller>    
+    </controller>
     <controller id="game.controller.keyboard" type="RETRO_DEVICE_KEYBOARD" subclass="0">
         <feature name="0" mapto="RETROK_0"/>
         <feature name="1" mapto="RETROK_1"/>
