@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <logicaltopology>
   <port type="keyboard">
     <accepts controller="game.controller.keyboard"/>
@@ -7,15 +7,19 @@
     <accepts controller="game.controller.mouse"/>
   </port>
   <port type="controller" id="1">
-    <accepts controller="game.controller.default"/>
+    <accepts controller="game.controller.atari.800"/>
+    <accepts controller="game.controller.atari.5200"/>
   </port>
   <port type="controller" id="2">
-    <accepts controller="game.controller.default"/>
+    <accepts controller="game.controller.atari.800"/>
+    <accepts controller="game.controller.atari.5200"/>
   </port>
   <port type="controller" id="3">
-    <accepts controller="game.controller.default"/>
+    <accepts controller="game.controller.atari.800"/>
+    <accepts controller="game.controller.atari.5200"/>
   </port>
   <port type="controller" id="4">
-    <accepts controller="game.controller.default"/>
+    <accepts controller="game.controller.atari.800"/>
+    <accepts controller="game.controller.atari.5200"/>
   </port>  
 </logicaltopology>
