@@ -1,30 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <buttonmap version="2">
-    <controller id="game.controller.default" type="RETRO_DEVICE_JOYPAD" subclass="1">
+    <controller id="game.controller.atari.800" type="RETRO_DEVICE_JOYPAD" subclass="1">
+        <feature name="fire1" mapto="RETRO_DEVICE_ID_JOYPAD_B"/>
+        <feature name="fire2" mapto="RETRO_DEVICE_ID_JOYPAD_A"/>
         <feature name="up" mapto="RETRO_DEVICE_ID_JOYPAD_UP"/>
+        <feature name="right" mapto="RETRO_DEVICE_ID_JOYPAD_RIGHT"/>
         <feature name="down" mapto="RETRO_DEVICE_ID_JOYPAD_DOWN"/>
         <feature name="left" mapto="RETRO_DEVICE_ID_JOYPAD_LEFT"/>
-        <feature name="right" mapto="RETRO_DEVICE_ID_JOYPAD_RIGHT"/>
-        <feature name="a" mapto="RETRO_DEVICE_ID_JOYPAD_A"/>
-        <feature name="b" mapto="RETRO_DEVICE_ID_JOYPAD_B"/>
-        <feature name="x" mapto="RETRO_DEVICE_ID_JOYPAD_X"/>
-        <feature name="y" mapto="RETRO_DEVICE_ID_JOYPAD_Y"/>
         <feature name="start" mapto="RETRO_DEVICE_ID_JOYPAD_START"/>
-        <feature name="back" mapto="RETRO_DEVICE_ID_JOYPAD_SELECT"/>
-        <feature name="leftthumb" mapto="RETRO_DEVICE_ID_JOYPAD_L"/>
-        <feature name="rightthumb" mapto="RETRO_DEVICE_ID_JOYPAD_R"/>
-        <feature name="leftbumper" mapto="RETRO_DEVICE_ID_JOYPAD_L2"/>
-        <feature name="rightbumper" mapto="RETRO_DEVICE_ID_JOYPAD_R2"/>
-        <feature name="lefttrigger" mapto="RETRO_DEVICE_ID_JOYPAD_L3"/>
-        <feature name="righttrigger" mapto="RETRO_DEVICE_ID_JOYPAD_R3"/>
+        <feature name="select" mapto="RETRO_DEVICE_ID_JOYPAD_SELECT"/>
+        <feature name="option" mapto="RETRO_DEVICE_ID_JOYPAD_L"/>
+        <feature name="space" mapto="RETRO_DEVICE_ID_JOYPAD_Y"/>
+        <feature name="return" mapto="RETRO_DEVICE_ID_JOYPAD_X"/>
+        <feature name="escape" mapto="RETRO_DEVICE_ID_JOYPAD_L2"/>
+        <feature name="menu" mapto="RETRO_DEVICE_ID_JOYPAD_R"/>
+        <feature name="help" mapto="RETRO_DEVICE_ID_JOYPAD_R2"/>
+        <feature name="togglevkbd" mapto="RETRO_DEVICE_ID_JOYPAD_L3"/>
+    </controller>
+    <controller id="game.controller.atari.5200" type="RETRO_DEVICE_JOYPAD" subclass="2">
+        <feature name="fire1" mapto="RETRO_DEVICE_ID_JOYPAD_B"/>
+        <feature name="fire2" mapto="RETRO_DEVICE_ID_JOYPAD_A"/>
+        <feature name="start" mapto="RETRO_DEVICE_ID_JOYPAD_START"/>
+        <feature name="pause" mapto="RETRO_DEVICE_ID_JOYPAD_SELECT"/>
+        <feature name="up" mapto="RETRO_DEVICE_ID_JOYPAD_UP"/>
+        <feature name="right" mapto="RETRO_DEVICE_ID_JOYPAD_RIGHT"/>
+        <feature name="down" mapto="RETRO_DEVICE_ID_JOYPAD_DOWN"/>
+        <feature name="left" mapto="RETRO_DEVICE_ID_JOYPAD_LEFT"/>
+        <feature name="num1" mapto="RETRO_DEVICE_ID_JOYPAD_R"/>
+        <feature name="num2" mapto="RETRO_DEVICE_ID_JOYPAD_L2"/>
+        <feature name="num3" mapto="RETRO_DEVICE_ID_JOYPAD_R2"/>
+        <feature name="num7" mapto="RETRO_DEVICE_ID_JOYPAD_L3"/>
+        <feature name="num0" mapto="RETRO_DEVICE_ID_JOYPAD_L"/>
+        <feature name="star" mapto="RETRO_DEVICE_ID_JOYPAD_X"/>
+        <feature name="pound" mapto="RETRO_DEVICE_ID_JOYPAD_Y"/>
+        <feature name="togglevkbd" mapto="RETRO_DEVICE_ID_JOYPAD_R3"/>
     </controller>
     <controller id="game.controller.mouse" type="RETRO_DEVICE_MOUSE">
         <feature name="left" mapto="RETRO_DEVICE_ID_MOUSE_LEFT"/>
         <feature name="right" mapto="RETRO_DEVICE_ID_MOUSE_RIGHT"/>
-        <feature name="button4" mapto="RETRO_DEVICE_ID_MOUSE_X"/>
-        <feature name="button5" mapto="RETRO_DEVICE_ID_MOUSE_Y"/>
         <feature name="wheelup" mapto="RETRO_DEVICE_ID_MOUSE_WHEELUP"/>
         <feature name="wheeldown" mapto="RETRO_DEVICE_ID_MOUSE_WHEELDOWN"/>
+        <feature name="pointer" mapto="RETRO_DEVICE_MOUSE"/>
     </controller>
     <controller id="game.controller.keyboard" type="RETRO_DEVICE_KEYBOARD" subclass="0">
         <feature name="0" mapto="RETROK_0"/>
