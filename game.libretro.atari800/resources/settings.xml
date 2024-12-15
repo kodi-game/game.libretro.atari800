@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
-	<category label="30000">
+	<category label="128">
 		<setting label="30002" type="select" id="atari800_ntscpal" values="NTSC|PAL" default="NTSC"/>
 		<setting label="30011" type="select" id="atari800_artifacting_mode" values="none|blue/brown 1|blue/brown 2|GTIA|CTIA" default="none"/>
 		<setting label="30009" type="select" id="atari800_resolution" values="336x240|320x240|384x240|384x272|384x288|400x300" default="336x240"/>
-		<setting label="30012" type="select" id="atari800_opt2" values="none|enabled|Swap Ports" default="none"/>
+		<setting label="30022" type="select" id="color_hue" values="0.00|-1.00|-0.98|-0.96|-0.94|-0.92|-0.90|-0.88|-0.86|-0.84|-0.82|-0.80|-0.78|-0.76|-0.74|-0.72|-0.70|-0.68|-0.66|-0.64|-0.62|-0.60|-0.58|-0.56|-0.54|-0.52|-0.50|-0.48|-0.46|-0.44|-0.42|-0.40|-0.38|-0.36|-0.34|-0.32|-0.30|-0.28|-0.26|-0.24|-0.22|-0.20|-0.18|-0.16|-0.14|-0.12|-0.10|-0.08|-0.06|-0.04|-0.02|0.02|0.04|0.06|0.08|0.10|0.12|0.14|0.16|0.18|0.20|0.22|0.24|0.26|0.28|0.30|0.32|0.34|0.36|0.38|0.40|0.42|0.44|0.46|0.48|0.50|0.52|0.54|0.56|0.58|0.60|0.62|0.64|0.66|0.68|0.70|0.72|0.74|0.76|0.78|0.80|0.82|0.84|0.86|0.88|0.90|0.92|0.94|0.96|0.98|1.00" default="0.00"/>
+		<setting label="30023" type="select" id="color_saturation" values="0.00|-1.00|-0.98|-0.96|-0.94|-0.92|-0.90|-0.88|-0.86|-0.84|-0.82|-0.80|-0.78|-0.76|-0.74|-0.72|-0.70|-0.68|-0.66|-0.64|-0.62|-0.60|-0.58|-0.56|-0.54|-0.52|-0.50|-0.48|-0.46|-0.44|-0.42|-0.40|-0.38|-0.36|-0.34|-0.32|-0.30|-0.28|-0.26|-0.24|-0.22|-0.20|-0.18|-0.16|-0.14|-0.12|-0.10|-0.08|-0.06|-0.04|-0.02|0.02|0.04|0.06|0.08|0.10|0.12|0.14|0.16|0.18|0.20|0.22|0.24|0.26|0.28|0.30|0.32|0.34|0.36|0.38|0.40|0.42|0.44|0.46|0.48|0.50|0.52|0.54|0.56|0.58|0.60|0.62|0.64|0.66|0.68|0.70|0.72|0.74|0.76|0.78|0.80|0.82|0.84|0.86|0.88|0.90|0.92|0.94|0.96|0.98|1.00" default="0.00"/>
+		<setting label="30024" type="select" id="color_contrast" values="0.00|-2.00|-1.96|-1.92|-1.88|-1.84|-1.80|-1.76|-1.72|-1.68|-1.64|-1.60|-1.56|-1.52|-1.48|-1.44|-1.40|-1.36|-1.32|-1.28|-1.24|-1.20|-1.16|-1.12|-1.08|-1.04|-1.00|-0.96|-0.92|-0.88|-0.84|-0.80|-0.76|-0.72|-0.68|-0.64|-0.60|-0.56|-0.52|-0.48|-0.44|-0.40|-0.36|-0.32|-0.28|-0.24|-0.20|-0.16|-0.12|-0.08|-0.04|0.04|0.08|0.12|0.16|0.20|0.24|0.28|0.32|0.36|0.40|0.44|0.48|0.52|0.56|0.60|0.64|0.68|0.72|0.76|0.80|0.84|0.88|0.92|0.96|1.00|1.04|1.08|1.12|1.16|1.20|1.24|1.28|1.32|1.36|1.40|1.44|1.48|1.52|1.56|1.60|1.64|1.68|1.72|1.76|1.80|1.84|1.88|1.92|1.96|2.00" default="0.00"/>
+		<setting label="30025" type="select" id="color_brightness" values="0.00|-2.00|-1.96|-1.92|-1.88|-1.84|-1.80|-1.76|-1.72|-1.68|-1.64|-1.60|-1.56|-1.52|-1.48|-1.44|-1.40|-1.36|-1.32|-1.28|-1.24|-1.20|-1.16|-1.12|-1.08|-1.04|-1.00|-0.96|-0.92|-0.88|-0.84|-0.80|-0.76|-0.72|-0.68|-0.64|-0.60|-0.56|-0.52|-0.48|-0.44|-0.40|-0.36|-0.32|-0.28|-0.24|-0.20|-0.16|-0.12|-0.08|-0.04|0.04|0.08|0.12|0.16|0.20|0.24|0.28|0.32|0.36|0.40|0.44|0.48|0.52|0.56|0.60|0.64|0.68|0.72|0.76|0.80|0.84|0.88|0.92|0.96|1.00|1.04|1.08|1.12|1.16|1.20|1.24|1.28|1.32|1.36|1.40|1.44|1.48|1.52|1.56|1.60|1.64|1.68|1.72|1.76|1.80|1.84|1.88|1.92|1.96|2.00" default="0.00"/>
+		<setting label="30026" type="select" id="color_gamma" values="2.35|1.00|1.02|1.04|1.06|1.08|1.10|1.12|1.14|1.16|1.18|1.20|1.22|1.24|1.26|1.28|1.30|1.32|1.34|1.36|1.38|1.40|1.42|1.44|1.46|1.48|1.50|1.52|1.54|1.56|1.58|1.60|1.62|1.64|1.66|1.68|1.70|1.72|1.74|1.76|1.78|1.80|1.82|1.84|1.86|1.88|1.90|1.92|1.94|1.96|1.98|2.00|2.02|2.04|2.06|2.08|2.10|2.12|2.14|2.16|2.18|2.20|2.22|2.24|2.26|2.28|2.30|2.32|2.34|2.36|2.38|2.40|2.42|2.44|2.46|2.48|2.50|2.52|2.54|2.56|2.58|2.60|2.62|2.64|2.66|2.68|2.70|2.72|2.74|2.76|2.78|2.80|2.82|2.84|2.86|2.88|2.90|2.92|2.94|2.96|2.98|3.00|3.02|3.04|3.06|3.08|3.10|3.12|3.14|3.16|3.18|3.20|3.22|3.24|3.26|3.28|3.30|3.32|3.34|3.36|3.38|3.40|3.42|3.44|3.46|3.48|3.50" default="2.35"/>
+		<setting label="30012" type="select" id="atari800_opt2" values="none|enabled|Swap Ports|Joy 2B+" default="none"/>
 		<setting label="30013" type="select" id="paddle_active" values="disabled|enabled" default="disabled"/>
 		<setting label="30014" type="select" id="paddle_movement_speed" values="3|1|2|4|5|6|7|8|9" default="3"/>
 		<setting label="30015" type="select" id="pot_digital_sensitivity" values="100|5|10|15|20|25|30|35|40|45|50|55|60|65|70|75|80|85|90|95" default="100"/>
 		<setting label="30016" type="select" id="pot_analog_sensitivity" values="100|5|10|15|20|25|30|35|40|45|50|55|60|65|70|75|80|85|90|95" default="100"/>
 		<setting label="30017" type="select" id="pot_analog_deadzone" values="15|0|3|5|7|10|13|17|20|23|25|27|30" default="15"/>
 		<setting label="30010" type="select" id="atari800_keyboard" values="poll|callback" default="poll"/>
+		<setting label="30027" type="select" id="atarixegs_keyboard_detached" values="attached|detached" default="attached"/>
+		<setting label="30028" type="select" id="atari800_f10" values="F1|F10" default="F1"/>
 		<setting label="30018" type="select" id="keyboard_defines" values="informational" default="informational"/>
-		<setting label="30001" type="select" id="atari800_system" values="400/800 (OS B)|800XL (64K)|130XE (128K)|Modern XL/XE(320K CS)|Modern XL/XE(576K)|Modern XL/XE(1088K)|5200" default="400/800 (OS B)"/>
+		<setting label="30001" type="select" id="atari800_system" values="800XL (64K)|400/800 (OS B)|130XE (128K)|Modern XL/XE(320K CS)|Modern XL/XE(576K)|Modern XL/XE(1088K)|XEGS|5200" default="800XL (64K)"/>
 		<setting label="30019" type="select" id="atari800_internalbasic" values="disabled|enabled" default="disabled"/>
 		<setting label="30004" type="select" id="atari800_sioaccel" values="enabled|disabled" default="enabled"/>
 		<setting label="30020" type="select" id="atari800_cassboot" values="disabled|enabled" default="disabled"/>
-		<setting label="30021" type="select" id="atari800_opt1" values="disabled|enabled" default="disabled"/>
+		<setting label="30029" type="select" id="atari800_cfg" values="disabled|enabled" default="disabled"/>
 	</category>
 </settings>
