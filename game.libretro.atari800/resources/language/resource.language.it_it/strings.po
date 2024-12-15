@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Atari800 is an emulator for Atari 8-bit computer systems (400, 800, 600 XL, 800XL, 130XE and 5200)."
 msgstr "Atari800 è un emulatore per sistemi informatici Atari a 8 bit (400, 800, 600 XL, 800XL, 130XE e 5200)."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Impostazioni"
-
 msgctxt "#30001"
 msgid "Atari System"
 msgstr "Sistema Atari"
@@ -89,9 +85,45 @@ msgctxt "#30020"
 msgid "Boot from Cassette (Reboot)"
 msgstr "Avvio da cassetta (riavvio)"
 
-msgctxt "#30021"
-msgid "Autodetect Atari Cartridge Type (Restart)"
-msgstr "Rilevamento automatico ìtipo di cartuccia Atari (riavvio)"
+msgctxt "#30022"
+msgid "Color tint/hue"
+msgstr ""
+
+msgctxt "#30023"
+msgid "Color saturation"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Color contrast"
+msgstr ""
+
+msgctxt "#30025"
+msgid "Color brightness"
+msgstr ""
+
+msgctxt "#30026"
+msgid "Color gamma"
+msgstr ""
+
+msgctxt "#30027"
+msgid "Atari XEGS keyboard"
+msgstr ""
+
+msgctxt "#30028"
+msgid "Legacy menu key"
+msgstr ""
+
+msgctxt "#30029"
+msgid "Uses the Atari800 legacy configuration file"
+msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Impostazioni"
+
+#~ msgctxt "#30021"
+#~ msgid "Autodetect Atari Cartridge Type (Restart)"
+#~ msgstr "Rilevamento automatico ìtipo di cartuccia Atari (riavvio)"
 
 #~ msgctxt "#30003"
 #~ msgid "Internal BASIC (hold OPTION on boot)"
