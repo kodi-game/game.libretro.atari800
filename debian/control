@@ -13,5 +13,5 @@ Section: libs
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, kodi, kodi-game-libretro
 Enhances: kodi
-Description: Atari - 5200 (Atari800) core for kodi's retroplayer
- Atari - 5200 (Atari800) core for kodi's retroplayer
+Description: Atari - 400/800/600XL/800XL/130XE/5200 (Atari800) core for kodi's retroplayer
+ Atari - 400/800/600XL/800XL/130XE/5200 (Atari800) core for kodi's retroplayer

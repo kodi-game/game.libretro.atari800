@@ -1,4 +1,4 @@
-# Atari - 5200 (Atari800)
+# Atari - 400/800/600XL/800XL/130XE/5200 (Atari800)
 
 ### Description
 
@@ -10,7 +10,7 @@ GPLv2
 
 ### Icon
 
-![Atari - 5200 (Atari800) icon](game.libretro.atari800/resources/icon.png)
+![Atari - 400/800/600XL/800XL/130XE/5200 (Atari800) icon](game.libretro.atari800/resources/icon.png)
 
 ### Fanart
 
