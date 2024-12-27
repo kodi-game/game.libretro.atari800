@@ -23,9 +23,10 @@ msgid "Atari - 400/800/600XL/800XL/130XE/5200 (Atari800)"
 msgstr "Atari - 5200 (Atari800)"
 
 msgctxt "Addon Description"
-msgid "Atari800 is an emulator for Atari 8-bit computer systems (400, 800, 600 XL, 800XL, 130XE and 5200)."
-msgstr "[CR]Atari800 es un emulador para sistemas informáticos Atari de 8 bits (400, [CR]800, 600 XL, 800XL, 130XE y 5200)."
-
+msgid ""
+"Atari800 is an emulator for Atari 8-bit computer systems (400, 800, 600 XL, "
+"800XL, 130XE and 5200)."
+msgstr ""
 "Atari800 es un emulador para sistemas informáticos Atari de 8 bits (400, "
 "800, 600 XL, 800XL, 130XE y 5200)."
 
