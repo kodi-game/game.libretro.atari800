@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n==1 || n%10==1 ? 0 : 1;\n"
 
 msgctxt "Addon Summary"
-msgid "Atari - 5200 (Atari800)"
+msgid "Atari - 400/800/600XL/800XL/130XE/5200 (Atari800)"
 msgstr ""
 
 msgctxt "Addon Description"
