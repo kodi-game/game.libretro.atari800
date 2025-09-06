@@ -1,0 +1,118 @@
+# game.libretro.atari800 language file
+# Addon Name: game.libretro.atari800
+# Addon id: game.libretro.atari800
+# Addon Provider: libretro
+msgid ""
+msgstr ""
+"Project-Id-Version: game.libretro.atari800\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"POT-Creation-Date: 2020-01-30 02:44i\n"
+"PO-Revision-Date: 2020-01-30 02:44i\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgctxt "Addon Summary"
+msgid "Atari - 400/800/600XL/800XL/130XE/5200 (Atari800)"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Atari800 is an emulator for Atari 8-bit computer systems (400, 800, 600 XL, 800XL, 130XE and 5200)."
+msgstr ""
+
+# Empty string with ID 30000
+msgctxt "#30001"
+msgid "Atari System"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Video Standard"
+msgstr ""
+
+msgctxt "#30004"
+msgid "SIO Acceleration"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Internal resolution"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Retroarch Keyboard type"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Hi-Res Artifacting Mode"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Controller Hacks"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Activate Paddle Mode"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Paddle Movement Speed"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Digital Joystick Sensitivity"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Analog Joystick Sensitivity"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Analog Joystick Deadzone"
+msgstr ""
+
+msgctxt "#30018"
+msgid "Atari Keyboard Defines"
+msgstr ""
+
+msgctxt "#30019"
+msgid "Internal BASIC (hold OPTION on boot) (Restart)"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Boot from Cassette (Reboot)"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Color tint/hue"
+msgstr ""
+
+msgctxt "#30023"
+msgid "Color saturation"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Color contrast"
+msgstr ""
+
+msgctxt "#30025"
+msgid "Color brightness"
+msgstr ""
+
+msgctxt "#30026"
+msgid "Color gamma"
+msgstr ""
+
+msgctxt "#30027"
+msgid "Atari XEGS keyboard"
+msgstr ""
+
+msgctxt "#30028"
+msgid "Legacy menu key"
+msgstr ""
+
+msgctxt "#30029"
+msgid "Uses the Atari800 legacy configuration file"
+msgstr ""
