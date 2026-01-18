@@ -1,1 +1,1 @@
-atari800 https://github.com/libretro/libretro-atari800/archive/6a18cb23cc4a7cecabd9b16143d2d7332ae8d44b.tar.gz
+atari800 https://github.com/libretro/libretro-atari800/archive/630f2346a1dabefdcf534880a48e3e200e2cc551.tar.gz
