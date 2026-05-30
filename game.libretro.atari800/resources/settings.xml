@@ -23,6 +23,7 @@
 		<setting label="30019" type="select" id="atari800_internalbasic" values="disabled|enabled" default="disabled"/>
 		<setting label="30004" type="select" id="atari800_sioaccel" values="enabled|disabled" default="enabled"/>
 		<setting label="30020" type="select" id="atari800_cassboot" values="disabled|enabled" default="disabled"/>
+		<setting label="30030" type="select" id="atari800_pokey_stereo" values="disabled|enabled" default="disabled"/>
 		<setting label="30029" type="select" id="atari800_cfg" values="disabled|enabled" default="disabled"/>
 	</category>
 </settings>
