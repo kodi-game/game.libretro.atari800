@@ -31,6 +31,7 @@
 		<summary lang="es_ES">Atari - 5200 (Atari800)</summary>
 		<summary lang="ga">Atari - 400/800/600XL/800XL/130XE/5200 (Atari800)</summary>
 		<summary lang="it_IT">Atari - 400/800/600XL/800XL/130XE/5200 (Atari800)</summary>
+		<summary lang="ru_RU">Atari — 400/800/600XL/800XL/130XE/5200 (Atari800)</summary>
 		<summary lang="sv_SE">Atari - 400/800/600XL/800XL/130XE/5200 (Atari800)</summary>
 		<summary lang="zh_CN">雅达利 - 5200（雅达利800）</summary>
 		<description lang="da_DK">Atari800 er en emulator til Atari 8-bit computersystemer (400, 800, 600 XL, 800XL, 130XE og 5200).</description>
@@ -40,6 +41,7 @@
 		<description lang="fi_FI">Atari800 on emulaattori Atarin 8-bittisille tietokonejärjestelmille (400, 800, 600 XL, 800XL, 130XE ja 5200).</description>
 		<description lang="ga">Is aithriseoir é Atari800 do chórais ríomhaireachta 8-giotán Atari (400, 800, 600 XL, 800XL, 130XE agus 5200).</description>
 		<description lang="it_IT">Atari800 è un emulatore per i sistemi informatici Atari a 8 bit (400, 800, 600 XL, 800XL, 130XE e 5200).</description>
+		<description lang="ru_RU">Atari800 — это эмулятор 8-битных компьютерных систем Atari (400, 800, 600 XL, 800XL, 130XE и 5200).</description>
 		<description lang="sv_SE">Atari800 är en emulator för Atari 8-bitars datorsystem (400, 800, 600 XL, 800XL, 130XE och 5200).</description>
 		<description lang="zh_CN">Atari800 是雅达利8位计算机系统（400、800、600XL、800XL、130XE 和 5200）的仿真器。</description>
 	</extension>
