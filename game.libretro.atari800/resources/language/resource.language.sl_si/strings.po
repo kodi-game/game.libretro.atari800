@@ -117,6 +117,10 @@ msgctxt "#30029"
 msgid "Uses the Atari800 legacy configuration file"
 msgstr ""
 
+msgctxt "#30030"
+msgid "Stereo POKEY (Restart)"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Nastavitve"
