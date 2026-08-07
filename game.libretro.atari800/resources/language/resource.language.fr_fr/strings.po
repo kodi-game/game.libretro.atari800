@@ -109,16 +109,96 @@ msgctxt "#30027"
 msgid "Atari XEGS keyboard"
 msgstr ""
 
-msgctxt "#30028"
-msgid "Legacy menu key"
-msgstr ""
-
 msgctxt "#30029"
 msgid "Uses the Atari800 legacy configuration file"
 msgstr ""
 
 msgctxt "#30030"
 msgid "Stereo POKEY (Restart)"
+msgstr ""
+
+msgctxt "#30031"
+msgid "GTIA delay (colorburst phase)"
+msgstr ""
+
+msgctxt "#30032"
+msgid "External Palette"
+msgstr ""
+
+msgctxt "#30033"
+msgid "Virtual keyboard"
+msgstr ""
+
+msgctxt "#30034"
+msgid "400/800 OS ROM (Restart)"
+msgstr ""
+
+msgctxt "#30035"
+msgid "XL/XE OS ROM (Restart)"
+msgstr ""
+
+msgctxt "#30036"
+msgid "5200 BIOS ROM (Restart)"
+msgstr ""
+
+msgctxt "#30037"
+msgid "BASIC ROM (Restart)"
+msgstr ""
+
+msgctxt "#30038"
+msgid "Mosaic RAM Expansion (Restart)"
+msgstr ""
+
+msgctxt "#30039"
+msgid "Axlon RAM Expansion (Restart)"
+msgstr ""
+
+msgctxt "#30040"
+msgid "Axlon $0F Bank Shadow (Restart)"
+msgstr ""
+
+msgctxt "#30041"
+msgid "MapRAM (Restart)"
+msgstr ""
+
+msgctxt "#30042"
+msgid "Joystick Autofire"
+msgstr ""
+
+msgctxt "#30043"
+msgid "Show Atari Speed %"
+msgstr ""
+
+msgctxt "#30044"
+msgid "Show Disk/Tape Activity"
+msgstr ""
+
+msgctxt "#30045"
+msgid "Show Sector/Block Counter"
+msgstr ""
+
+msgctxt "#30046"
+msgid "Show 1200XL LEDs"
+msgstr ""
+
+msgctxt "#30047"
+msgid "XEP80 80-Column Display (Restart)"
+msgstr ""
+
+msgctxt "#30048"
+msgid "R-Time 8 Clock (Restart)"
+msgstr ""
+
+msgctxt "#30049"
+msgid "P: Device / Printer (Restart)"
+msgstr ""
+
+msgctxt "#30050"
+msgid "R: Device / Serial (Restart)"
+msgstr ""
+
+msgctxt "#30051"
+msgid "Slow DOS Binary Loading"
 msgstr ""
 
 #~ msgctxt "#30000"
