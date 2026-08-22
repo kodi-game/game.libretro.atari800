@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: game.libretro.atari800\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2020-01-30 02:44i\n"
-"PO-Revision-Date: 2026-08-09 13:06+0000\n"
-"Last-Translator: Automatic translation add-on <noreply-addon-autotranslate@weblate.org>\n"
+"PO-Revision-Date: 2026-08-22 14:13+0000\n"
+"Last-Translator: Michal Várady <miko.vaji@gmail.com>\n"
 "Language-Team: Czech <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-atari800/cs_cz/>\n"
 "Language: cs_cz\n"
 "MIME-Version: 1.0\n"
@@ -200,6 +200,482 @@ msgstr "Zařízení R: / sériové zařízení (vyžaduje restart)"
 msgctxt "#30051"
 msgid "Slow DOS Binary Loading"
 msgstr "Pomalé načítání binárních souborů DOSu"
+
+msgctxt "#30052"
+msgid "System"
+msgstr "Systém"
+
+msgctxt "#30053"
+msgid "Emulated machine and hardware: Atari system model, OS and BASIC ROMs, RAM expansions, and add-on hardware.  Most take effect after a restart."
+msgstr "Emulovaný počítač a hardware: model systému Atari, ROM operačního systému a BASICu, rozšíření RAM a přídavný hardware. Většina změn se projeví po restartu."
+
+msgctxt "#30054"
+msgid "Select system emulated.  Atari 5200 for Atari 5200 console games.  400/800 (OS B) for <48K games or ones that require OS/B.  800XL (64K) works for most content.  130XE (128K), Modern XL/XE(320K Compy Shop),  Modern XL/XE(576K), Modern XL/XE(1088K) for content that needs more than 64K.  Atari XE Game System for the Atari XE Game System or XEGS console games."
+msgstr "Vyberte emulovaný systém. Atari 5200 pro hry z konzole Atari 5200. 400/800 (OS B) pro hry pod 48K nebo vyžadující OS/B. 800XL (64K) funguje s většinou obsahu. 130XE (128K), Moderní Atari XL/XE (320K Compy Shop), Moderní Atari XL/XE (576K) a Moderní Atari XL/XE (1088K) pro obsah vyžadující více než 64K. Atari XE Game System pro Atari XE Game System nebo hry konzole XEGS."
+
+msgctxt "#30055"
+msgid "Atari 400/800 (OS B)"
+msgstr "Atari 400/800 (OS B)"
+
+msgctxt "#30056"
+msgid "Atari 800XL (64K)"
+msgstr "Atari 800XL (64K)"
+
+msgctxt "#30057"
+msgid "Atari 130XE (128K)"
+msgstr "Atari 130XE (128K)"
+
+msgctxt "#30058"
+msgid "Modern Atari XL/XE(320K Compy Shop)"
+msgstr "Moderní Atari XL/XE (320K Compy Shop)"
+
+msgctxt "#30059"
+msgid "Modern Atari XL/XE(576K)"
+msgstr "Moderní Atari XL/XE (576K)"
+
+msgctxt "#30060"
+msgid "Modern Atari XL/XE(1088K)"
+msgstr "Moderní Atari XL/XE (1088K)"
+
+msgctxt "#30061"
+msgid "Atari XE Game System"
+msgstr "Atari XE Game System"
+
+msgctxt "#30062"
+msgid "Atari 5200 Super System"
+msgstr "Atari 5200 Super System"
+
+msgctxt "#30063"
+msgid "Enable for content that needs Atari BASIC in order to run.  A proper ROM file (ATARIBAS.ROM) is needed."
+msgstr "Povolit pro obsah, který ke spuštění vyžaduje Atari BASIC. Je potřeba příslušný soubor ROM (ATARIBAS.ROM)."
+
+msgctxt "#30064"
+msgid "Select the operating-system ROM revision used by the Atari 400/800. 'Auto' picks a revision automatically. 'AltirraOS' uses the bundled open-source replacement ROM (no original ROM required). Other revisions require the matching ROM file in the system directory."
+msgstr "Vyberte revizi ROM operačního systému používanou Atari 400/800. „Automaticky“ vybere revizi automaticky. „AltirraOS“ používá přibalenou open-source náhradní ROM (není potřeba původní ROM). U ostatních revizí je v systémovém adresáři potřeba odpovídající soubor ROM."
+
+msgctxt "#30065"
+msgid "Auto"
+msgstr "Automaticky"
+
+msgctxt "#30066"
+msgid "AltirraOS (built-in)"
+msgstr "AltirraOS (vestavěný)"
+
+msgctxt "#30067"
+msgid "Select the operating-system ROM revision used by the Atari XL/XE/XEGS. 'Auto' picks a revision automatically. 'AltirraOS' uses the bundled open-source replacement ROM (no original ROM required). Other revisions require the matching ROM file in the system directory."
+msgstr "Vyberte revizi ROM operačního systému používanou Atari XL/XE/XEGS. „Automaticky“ vybere revizi automaticky. „AltirraOS“ používá přibalenou open-source náhradní ROM (není potřeba původní ROM). U ostatních revizí je v systémovém adresáři potřeba odpovídající soubor ROM."
+
+msgctxt "#30068"
+msgid "Select the BIOS ROM revision used by the Atari 5200. 'Auto' picks a revision automatically. 'AltirraOS' uses the bundled open-source replacement ROM (no original ROM required). Other revisions require the matching ROM file in the system directory."
+msgstr "Vyberte revizi BIOS ROM používanou Atari 5200. „Automaticky“ vybere revizi automaticky. „AltirraOS“ používá přibalenou open-source náhradní ROM (není potřeba původní ROM). U ostatních revizí je v systémovém adresáři potřeba odpovídající soubor ROM."
+
+msgctxt "#30069"
+msgid "Select the Atari BASIC ROM revision. 'Auto' picks a revision automatically. 'Altirra BASIC' uses the bundled open-source replacement (no original ROM required). Other revisions require the matching ROM file in the system directory."
+msgstr "Vyberte revizi ROM Atari BASIC. „Automaticky“ vybere revizi automaticky. „Altirra BASIC“ používá přibalenou open-source náhradu (není potřeba původní ROM). U ostatních revizí je v systémovém adresáři potřeba odpovídající soubor ROM."
+
+msgctxt "#30070"
+msgid "Altirra BASIC (built-in)"
+msgstr "Altirra BASIC (vestavěný)"
+
+msgctxt "#30071"
+msgid "Emulate the Mosaic RAM expansion (Atari 400/800 only). Adds RAM-select boards mapped at $4000-$7FFF. Mutually exclusive with the Axlon expansion."
+msgstr "Emulovat rozšíření RAM Mosaic (pouze Atari 400/800). Přidá desky RAM s volbou banky mapované na $4000-$7FFF. Nelze použít současně s rozšířením Axlon."
+
+msgctxt "#30072"
+msgid "16 KB (1 board)"
+msgstr "16 KB (1 deska)"
+
+msgctxt "#30073"
+msgid "80 KB (2 boards)"
+msgstr "80 KB (2 desky)"
+
+msgctxt "#30074"
+msgid "144 KB (3 boards)"
+msgstr "144 KB (3 desky)"
+
+msgctxt "#30075"
+msgid "Emulate the Axlon 128K-compatible bank-switched RAM expansion (Atari 400/800 only). Mutually exclusive with the Mosaic expansion."
+msgstr "Emulovat paměťové rozšíření RAM Axlon kompatibilní se 128K (pouze Atari 400/800). Nelze použít současně s rozšířením Mosaic."
+
+msgctxt "#30076"
+msgid "The real Axlon board mirrored its bank-select register at $0FC0-$0FFF; some compatibles did not. Enable for full Axlon compatibility."
+msgstr "Skutečná deska Axlon zrcadlila registr výběru banky na $0FC0-$0FFF; některé kompatibilní desky to nedělaly. Povolte pro plnou kompatibilitu s Axlon."
+
+msgctxt "#30077"
+msgid "Enable MapRAM RAM-under-ROM mapping (Atari XL/XE only), mirroring the OS ROM into RAM for a small speed-up used by some enhanced systems."
+msgstr "Povolit mapování MapRAM RAM pod ROM (pouze Atari XL/XE), které zrcadlí ROM operačního systému do RAM pro malé zrychlení používané některými rozšířenými systémy."
+
+msgctxt "#30078"
+msgid "Emulate the XEP80 80-column display interface on the chosen joystick port.  Requires the XEP80 charset ROM."
+msgstr "Emulovat rozhraní 80sloupcového displeje XEP80 na zvoleném portu joysticku. Vyžaduje ROM znakové sady XEP80."
+
+msgctxt "#30079"
+msgid "Port 1"
+msgstr "Port 1"
+
+msgctxt "#30080"
+msgid "Port 2"
+msgstr "Port 2"
+
+msgctxt "#30081"
+msgid "Emulate the ICD R-Time 8 real-time clock cartridge."
+msgstr "Emulovat cartridge hodin reálného času ICD R-Time 8."
+
+msgctxt "#30082"
+msgid "Emulates the Atari Stereo Sound Mod (second POKEY chip at $D210-$D21F on 800/XL/XE). Stock 800/XL/XE has only one POKEY -- leave this disabled for authentic behavior. Some games (Bounty Bob Strikes Back, Road Race) use POKEY register mirroring tricks that lock up or lose audio when stereo is enabled. The Atari 5200 always uses mono regardless of this setting."
+msgstr "Emuluje modul Atari Stereo Sound (druhý čip POKEY na $D210-$D21F u 800/XL/XE). Standardní 800/XL/XE má jen jeden čip POKEY – pro autentické chování ponechte vypnuté. Některé hry (Bounty Bob Strikes Back, Road Race) používají triky se zrcadlením registrů POKEY, které při zapnutém stereu způsobí zamrznutí nebo ztrátu zvuku. Atari 5200 vždy používá mono bez ohledu na toto nastavení."
+
+msgctxt "#30083"
+msgid "If the Atari800 legacy configuration file, .atari800.cfg, is found, it will be loaded, and if not found, a new will be created."
+msgstr "Pokud je nalezen starší konfigurační soubor Atari800 .atari800.cfg, načte se; pokud nalezen není, vytvoří se nový."
+
+msgctxt "#30084"
+msgid "Video"
+msgstr "Video"
+
+msgctxt "#30085"
+msgid "Configure video standard (NTSC/PAL).  Enable Hi-res artifacting and set artifacting mode.  Set internal resolution"
+msgstr "Konfigurovat video standard (NTSC/PAL). Povolit artefakty ve vysokém rozlišení a nastavit režim artefaktů. Nastavit interní rozlišení"
+
+msgctxt "#30086"
+msgid "Select whether emulated system is NTSC (60hz) or PAL (50hz)"
+msgstr "Vyberte, zda je emulovaný systém NTSC (60 Hz), nebo PAL (50 Hz)."
+
+msgctxt "#30087"
+msgid "Set Hi-Res Artifacting mode used.  Typically dependant on the actual emulated system.  Pick the color combination that pleases you."
+msgstr "Nastavit použitý režim artefaktů ve vysokém rozlišení. Obvykle závisí na skutečném emulovaném systému. Vyberte barevnou kombinaci, která vám vyhovuje."
+
+msgctxt "#30088"
+msgid "None "
+msgstr "Žádné "
+
+msgctxt "#30089"
+msgid "Set emulated systems internal resolution."
+msgstr "Nastavit interní rozlišení emulovaných systémů."
+
+msgctxt "#30090"
+msgid "Set emulated color tint between -1.0 and 1.0"
+msgstr "Nastavit odstín emulovaných barev v rozmezí -1.0 až 1.0"
+
+msgctxt "#30091"
+msgid "0.00 (Default)"
+msgstr "0.00 (výchozí)"
+
+msgctxt "#30092"
+msgid "Set emulated color saturation between -1.0 and 1.0."
+msgstr "Nastavit sytost emulovaných barev v rozmezí -1.0 až 1.0."
+
+msgctxt "#30093"
+msgid "Set emulated color contrast between -2.0 and 2.0."
+msgstr "Nastavit kontrast emulovaných barev v rozmezí -2.0 až 2.0."
+
+msgctxt "#30094"
+msgid "Set emulated color brightness between -2.0 and 2.0."
+msgstr "Nastavit jas emulovaných barev v rozmezí -2.0 až 2.0."
+
+msgctxt "#30095"
+msgid "Set emulated color gamma between 1.0 and 3.5."
+msgstr "Nastavit gama emulovaných barev v rozmezí 1.0 až 3.5."
+
+msgctxt "#30096"
+msgid "2.35 (Default)"
+msgstr "2.35 (výchozí)"
+
+msgctxt "#30097"
+msgid "Adjust the GTIA colorburst phase / hue-spread of the generated palette (10-50 degrees). 'Default' keeps the palette's built-in value (26.8 for NTSC, 23.2 for PAL)."
+msgstr "Upravit fázi barevného synchronizačního signálu / rozptyl odstínu palety generované GTIA (10–50 stupňů). „Výchozí“ zachová vestavěnou hodnotu palety (26,8 pro NTSC, 23,2 pro PAL)."
+
+msgctxt "#30098"
+msgid "Default"
+msgstr "Výchozí"
+
+msgctxt "#30099"
+msgid "Use one of the default External Palettes. If this option is selected, it will override any External Palette configured in the Legacy CFG file."
+msgstr "Použít jednu z výchozích externích palet. Pokud je tato volba vybrána, přepíše externí paletu nastavenou v souboru Legacy CFG."
+
+msgctxt "#30100"
+msgid "Gray"
+msgstr "Šedá"
+
+msgctxt "#30101"
+msgid "Jakub"
+msgstr "Jakub"
+
+msgctxt "#30102"
+msgid "Real"
+msgstr "Skutečná"
+
+msgctxt "#30103"
+msgid "Xformer"
+msgstr "Xformer"
+
+msgctxt "#30104"
+msgid "Input"
+msgstr "Vstup"
+
+msgctxt "#30105"
+msgid "Configure 5200 Digital and Analog Joystick sensitivity and Analog deadzone.  Activate Swap, Dual Joysticks or Joy 2B+. Activate Paddle mode and set Paddle speed.  Set retroarch keyboard type."
+msgstr "Konfigurovat citlivost digitálních a analogových joysticků 5200 a mrtvou zónu analogového ovládání. Aktivovat volby Prohodit porty, Dva joysticky nebo Joy 2B+. Aktivovat režim paddle a nastavit rychlost paddle. Nastavit typ klávesnice RetroArch."
+
+msgctxt "#30106"
+msgid "Apply gamepad input hacks required for specific games. 'Dual Stick' maps Player 2's joystick to the right analog stick of Player 1's RetroPad, enabling dual stick control in 'Robotron 2084' and 'Space Dungeon'. 'Swap Ports' maps Player 1 to port 2 and Player 2 to port 1 of the emulated console, correcting the swapped inputs of 'Wizard of Wor', 'Apple Panic' and a few other games. 'Joy 2B+' enables multibutton joysticks support."
+msgstr "Použít úpravy vstupu gamepadu potřebné pro konkrétní hry. „Dva joysticky“ mapují joystick hráče 2 na pravou analogovou páčku RetroPadu hráče 1 a umožňují ovládání dvěma joysticky ve hrách „Robotron 2084“ a „Space Dungeon“. „Prohodit porty“ mapují hráče 1 na port 2 a hráče 2 na port 1 emulované konzole a opravují prohozené vstupy ve hře „Wizard of Wor“, „Apple Panic“ a několika dalších hrách. „Joy 2B+“ povoluje podporu joysticků s více tlačítky."
+
+msgctxt "#30107"
+msgid "Dual Stick"
+msgstr "Dva joysticky"
+
+msgctxt "#30108"
+msgid "Swap Ports"
+msgstr "Prohodit porty"
+
+msgctxt "#30109"
+msgid "Joy 2B+"
+msgstr "Joy 2B+"
+
+msgctxt "#30110"
+msgid "Use analog stick and digital pad to control paddle games.  Dual Stick and Swap Ports will be de-activated if this is enabled"
+msgstr "Používat analogovou páčku a digitální směrový ovladač k ovládání her s paddle ovladačem. Při zapnutí se deaktivují Dva joysticky a Prohodit porty."
+
+msgctxt "#30111"
+msgid "Determines how fast the paddle will move."
+msgstr "Určuje rychlost pohybu paddle ovladače."
+
+msgctxt "#30112"
+msgid "Set the effective range of the emulated analog joystick when using the gamepad's digital D-Pad for movement. Lower values equate to slower speeds.  Also can be used to make games like Centipede, Kaboom, Missile Command, Pengo, Realsports Tennis, Pole Position, Xari Arena and Super Breakout more playable."
+msgstr "Nastaví účinný rozsah emulovaného analogového joysticku při pohybu pomocí digitálního směrového ovladače gamepadu. Nižší hodnoty znamenají nižší rychlosti. Lze také použít ke snadnějšímu hraní her Centipede, Kaboom, Missile Command, Pengo, Realsports Tennis, Pole Position, Xari Arena a Super Breakout."
+
+msgctxt "#30113"
+msgid "5%"
+msgstr "5 %"
+
+msgctxt "#30114"
+msgid "10%"
+msgstr "10 %"
+
+msgctxt "#30115"
+msgid "15%"
+msgstr "15 %"
+
+msgctxt "#30116"
+msgid "20%"
+msgstr "20 %"
+
+msgctxt "#30117"
+msgid "25%"
+msgstr "25 %"
+
+msgctxt "#30118"
+msgid "30%"
+msgstr "30 %"
+
+msgctxt "#30119"
+msgid "35%"
+msgstr "35 %"
+
+msgctxt "#30120"
+msgid "40%"
+msgstr "40 %"
+
+msgctxt "#30121"
+msgid "45%"
+msgstr "45 %"
+
+msgctxt "#30122"
+msgid "50%"
+msgstr "50 %"
+
+msgctxt "#30123"
+msgid "55%"
+msgstr "55 %"
+
+msgctxt "#30124"
+msgid "60%"
+msgstr "60 %"
+
+msgctxt "#30125"
+msgid "65%"
+msgstr "65 %"
+
+msgctxt "#30126"
+msgid "70%"
+msgstr "70 %"
+
+msgctxt "#30127"
+msgid "75%"
+msgstr "75 %"
+
+msgctxt "#30128"
+msgid "80%"
+msgstr "80 %"
+
+msgctxt "#30129"
+msgid "85%"
+msgstr "85 %"
+
+msgctxt "#30130"
+msgid "90%"
+msgstr "90 %"
+
+msgctxt "#30131"
+msgid "95%"
+msgstr "95 %"
+
+msgctxt "#30132"
+msgid "100%"
+msgstr "100 %"
+
+msgctxt "#30133"
+msgid "Set the effective range of the emulated analog joystick when using the gamepad's left analog stick for movement. Lower values equate to slower speeds.  Also can be used to make games like Centipede, Kaboom, Missile Command, Pengo, Realsports Tennis, Pole Position, Xari Arena and Super Breakout more playable."
+msgstr "Nastaví účinný rozsah emulovaného analogového joysticku při pohybu pomocí levé analogové páčky gamepadu. Nižší hodnoty znamenají nižší rychlosti. Lze také použít ke snadnějšímu hraní her Centipede, Kaboom, Missile Command, Pengo, Realsports Tennis, Pole Position, Xari Arena a Super Breakout."
+
+msgctxt "#30134"
+msgid "Set the deadzone of the gamepad's analog sticks. Use this to eliminate controller drift."
+msgstr "Nastavit mrtvou zónu analogových páček gamepadu. Použijte k odstranění driftu ovladače."
+
+msgctxt "#30135"
+msgid "0%"
+msgstr "0 %"
+
+msgctxt "#30136"
+msgid "3%"
+msgstr "3 %"
+
+msgctxt "#30137"
+msgid "7%"
+msgstr "7 %"
+
+msgctxt "#30138"
+msgid "13%"
+msgstr "13 %"
+
+msgctxt "#30139"
+msgid "17%"
+msgstr "17 %"
+
+msgctxt "#30140"
+msgid "23%"
+msgstr "23 %"
+
+msgctxt "#30141"
+msgid "27%"
+msgstr "27 %"
+
+msgctxt "#30142"
+msgid "Set whether keyboard is polled or used callback."
+msgstr "Nastavit, zda se klávesnice dotazuje, nebo se používá zpětné volání."
+
+msgctxt "#30143"
+msgid "Set whether the Atari XEGS keyboard is attached or detached. If 'Internal BASIC' is enabled and the keyboard is attached, it will boot to BASIC. If 'Internal BASIC' is enabled and the keyboard is detached it will boot to the in-built game (Missile Command). If 'Internal BASIC' is disabled, it will boot to the Self Test screen."
+msgstr "Nastavit, zda je klávesnice Atari XEGS připojena, nebo odpojena. Pokud je povolen interní BASIC a klávesnice připojena, spustí se BASIC. Pokud je interní BASIC povolen a klávesnice odpojena, spustí se vestavěná hra (Missile Command). Pokud je interní BASIC zakázán, spustí se obrazovka autotestu."
+
+msgctxt "#30144"
+msgid "Show or hide the on-screen virtual keyboard overlay. It can also be toggled in-game with the mapped controller button (L3 for the Atari joystick, R3 for the 5200). To toggle it with a keyboard key, bind that key to the 'L3' RetroPad button in Settings > Input > Port 1 Controls."
+msgstr "Zobrazit nebo skrýt překryvnou virtuální klávesnici na obrazovce. Lze ji také přepínat ve hře namapovaným tlačítkem ovladače (L3 pro joystick Atari, R3 pro 5200). Chcete-li ji přepínat klávesou, přiřaďte ji v Nastavení > Vstup > Ovládací prvky portu 1 k tlačítku RetroPadu „L3“."
+
+msgctxt "#30145"
+msgid ""
+"Joystick and Console Key mappings for\n"
+"\"Atari Keyboard\".\n"
+" \n"
+" Joystick \"Keyboard Numpad 8, 2, 4 & 6\".\n"
+" \n"
+"5200 analog joystick. Left analog stick or \"Keyboard Numpad 8, 2, 4 & 6\".\n"
+" \n"
+"Fire 1 \"Right CTRL\". Fire 2 \"Right ALT\".\n"
+" \n"
+"5200 *  \"Keyboard Numpad * \". # \"Keyboard =\"\n"
+" \n"
+"5200 Keypad 0-9 \"Keyboard 0-9\".\n"
+"Pause \"P\", Reset \"R\".\n"
+" \n"
+"'Console' keys Option \"F2\", Select \"F3\",\n"
+"Start \"F4\".\n"
+" \n"
+"Controller 1 only."
+msgstr ""
+"Joystick a mapování kláves konzole pro\n"
+"„klávesnici Atari“.\n"
+" \n"
+"Joystick „numerická klávesnice 8, 2, 4 a 6“.\n"
+" \n"
+"Analogový joystick 5200. Levá analogová páčka nebo „numerická klávesnice 8, 2, 4 a 6“.\n"
+" \n"
+"Střelba 1 „pravý CTRL“. Střelba 2 „pravý ALT“.\n"
+" \n"
+"5200 * „numerická klávesnice *“. # „klávesnice =“\n"
+" \n"
+"Klávesnice 5200 0–9 „klávesnice 0–9“.\n"
+"Pauza „P“, reset „R“.\n"
+" \n"
+"Klávesy „konzole“ Option „F2“, Select „F3“,\n"
+"Start „F4“.\n"
+" \n"
+"Pouze ovladač 1."
+
+msgctxt "#30146"
+msgid "Autofire mode for all joystick ports.  Fire: autofire while the fire button is held.  Always: continuous autofire without holding the button."
+msgstr "Režim automatické střelby pro všechny porty joysticku. „Při držení střelby“: automatická střelba při držení tlačítka střelby. „Souvislá“: automatická střelba bez držení tlačítka."
+
+msgctxt "#30147"
+msgid "While fire held"
+msgstr "Při držení střelby"
+
+msgctxt "#30148"
+msgid "Continuous"
+msgstr "Souvislá"
+
+msgctxt "#30149"
+msgid "Media"
+msgstr "Média"
+
+msgctxt "#30150"
+msgid "Disk, tape and cartridge loading behaviour: SIO acceleration, cassette boot, binary-load speed, cartridge autodetect, and host P:/R: device redirection."
+msgstr "Chování při načítání disků, kazet a cartridgí: zrychlení SIO, spuštění z kazety, rychlost načítání binárních souborů, automatické rozpoznání cartridge a přesměrování zařízení P:/R: hostitele."
+
+msgctxt "#30151"
+msgid "Enable the P: printer device SIO patch."
+msgstr "Povolit úpravu SIO pro zařízení tiskárny P:."
+
+msgctxt "#30152"
+msgid "Enable the R: serial device SIO patch (Atari 850 emulation / Coder's Cable)."
+msgstr "Povolit úpravu SIO pro sériové zařízení R: (emulace Atari 850 / Coder's Cable)."
+
+msgctxt "#30153"
+msgid "Load DOS binary (.xex) files at the slower, more accurate original speed instead of instantly."
+msgstr "Načítat binární soubory DOSu (.xex) původní pomalejší a přesnější rychlostí namísto okamžitého načtení."
+
+msgctxt "#30154"
+msgid "This enables ALL SIO acceleration.  Enabled improves loading speed for Disk and Cassette images.  Disable only for protected disk (.ATX) and protected cassette images.  Reboot required if change made while loading a cassette image."
+msgstr "Povolí veškeré zrychlení SIO. Zapnutí zrychlí načítání obrazů disků a kazet. Vypínejte pouze pro chráněné obrazy disků (.ATX) a chráněné obrazy kazet. Pokud změnu provedete během načítání obrazu kazety, je vyžadován restart."
+
+msgctxt "#30155"
+msgid "Forces emulated system to boot from autoboot cassette images by holding down the \"START\" key on boot."
+msgstr "Vynutí spuštění emulovaného systému z automaticky spouštěných obrazů kazet podržením klávesy „START“ při spuštění."
+
+msgctxt "#30156"
+msgid "On-Screen Display"
+msgstr "Zobrazení na obrazovce"
+
+msgctxt "#30157"
+msgid "On-screen indicators drawn over the emulation: emulation speed, disk/tape activity, sector/block counter, and 1200XL LEDs."
+msgstr "Indikátory vykreslené přes emulaci: rychlost emulace, aktivita disku/kazety, počítadlo sektorů/bloků a kontrolky 1200XL."
+
+msgctxt "#30158"
+msgid "Overlay the emulation speed as a percentage on screen."
+msgstr "Zobrazit rychlost emulace na obrazovce v procentech."
+
+msgctxt "#30159"
+msgid "Overlay a disk-drive / tape activity indicator on screen."
+msgstr "Zobrazit na obrazovce indikátor aktivity diskové jednotky/kazety."
+
+msgctxt "#30160"
+msgid "Overlay the current disk sector / tape block number on screen."
+msgstr "Zobrazit číslo aktuálního sektoru disku / bloku kazety na obrazovce."
+
+msgctxt "#30161"
+msgid "Overlay the two 1200XL keyboard LEDs on screen (Atari 1200XL only)."
+msgstr "Zobrazit na obrazovce dvě kontrolky klávesnice 1200XL (pouze Atari 1200XL)."
 
 #~ msgctxt "#30028"
 #~ msgid "Legacy menu key"

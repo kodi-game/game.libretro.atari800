@@ -201,6 +201,464 @@ msgctxt "#30051"
 msgid "Slow DOS Binary Loading"
 msgstr ""
 
+msgctxt "#30052"
+msgid "System"
+msgstr ""
+
+msgctxt "#30053"
+msgid "Emulated machine and hardware: Atari system model, OS and BASIC ROMs, RAM expansions, and add-on hardware.  Most take effect after a restart."
+msgstr ""
+
+msgctxt "#30054"
+msgid "Select system emulated.  Atari 5200 for Atari 5200 console games.  400/800 (OS B) for <48K games or ones that require OS/B.  800XL (64K) works for most content.  130XE (128K), Modern XL/XE(320K Compy Shop),  Modern XL/XE(576K), Modern XL/XE(1088K) for content that needs more than 64K.  Atari XE Game System for the Atari XE Game System or XEGS console games."
+msgstr ""
+
+msgctxt "#30055"
+msgid "Atari 400/800 (OS B)"
+msgstr ""
+
+msgctxt "#30056"
+msgid "Atari 800XL (64K)"
+msgstr ""
+
+msgctxt "#30057"
+msgid "Atari 130XE (128K)"
+msgstr ""
+
+msgctxt "#30058"
+msgid "Modern Atari XL/XE(320K Compy Shop)"
+msgstr ""
+
+msgctxt "#30059"
+msgid "Modern Atari XL/XE(576K)"
+msgstr ""
+
+msgctxt "#30060"
+msgid "Modern Atari XL/XE(1088K)"
+msgstr ""
+
+msgctxt "#30061"
+msgid "Atari XE Game System"
+msgstr ""
+
+msgctxt "#30062"
+msgid "Atari 5200 Super System"
+msgstr ""
+
+msgctxt "#30063"
+msgid "Enable for content that needs Atari BASIC in order to run.  A proper ROM file (ATARIBAS.ROM) is needed."
+msgstr ""
+
+msgctxt "#30064"
+msgid "Select the operating-system ROM revision used by the Atari 400/800. 'Auto' picks a revision automatically. 'AltirraOS' uses the bundled open-source replacement ROM (no original ROM required). Other revisions require the matching ROM file in the system directory."
+msgstr ""
+
+msgctxt "#30065"
+msgid "Auto"
+msgstr ""
+
+msgctxt "#30066"
+msgid "AltirraOS (built-in)"
+msgstr ""
+
+msgctxt "#30067"
+msgid "Select the operating-system ROM revision used by the Atari XL/XE/XEGS. 'Auto' picks a revision automatically. 'AltirraOS' uses the bundled open-source replacement ROM (no original ROM required). Other revisions require the matching ROM file in the system directory."
+msgstr ""
+
+msgctxt "#30068"
+msgid "Select the BIOS ROM revision used by the Atari 5200. 'Auto' picks a revision automatically. 'AltirraOS' uses the bundled open-source replacement ROM (no original ROM required). Other revisions require the matching ROM file in the system directory."
+msgstr ""
+
+msgctxt "#30069"
+msgid "Select the Atari BASIC ROM revision. 'Auto' picks a revision automatically. 'Altirra BASIC' uses the bundled open-source replacement (no original ROM required). Other revisions require the matching ROM file in the system directory."
+msgstr ""
+
+msgctxt "#30070"
+msgid "Altirra BASIC (built-in)"
+msgstr ""
+
+msgctxt "#30071"
+msgid "Emulate the Mosaic RAM expansion (Atari 400/800 only). Adds RAM-select boards mapped at $4000-$7FFF. Mutually exclusive with the Axlon expansion."
+msgstr ""
+
+msgctxt "#30072"
+msgid "16 KB (1 board)"
+msgstr ""
+
+msgctxt "#30073"
+msgid "80 KB (2 boards)"
+msgstr ""
+
+msgctxt "#30074"
+msgid "144 KB (3 boards)"
+msgstr ""
+
+msgctxt "#30075"
+msgid "Emulate the Axlon 128K-compatible bank-switched RAM expansion (Atari 400/800 only). Mutually exclusive with the Mosaic expansion."
+msgstr ""
+
+msgctxt "#30076"
+msgid "The real Axlon board mirrored its bank-select register at $0FC0-$0FFF; some compatibles did not. Enable for full Axlon compatibility."
+msgstr ""
+
+msgctxt "#30077"
+msgid "Enable MapRAM RAM-under-ROM mapping (Atari XL/XE only), mirroring the OS ROM into RAM for a small speed-up used by some enhanced systems."
+msgstr ""
+
+msgctxt "#30078"
+msgid "Emulate the XEP80 80-column display interface on the chosen joystick port.  Requires the XEP80 charset ROM."
+msgstr ""
+
+msgctxt "#30079"
+msgid "Port 1"
+msgstr ""
+
+msgctxt "#30080"
+msgid "Port 2"
+msgstr ""
+
+msgctxt "#30081"
+msgid "Emulate the ICD R-Time 8 real-time clock cartridge."
+msgstr ""
+
+msgctxt "#30082"
+msgid "Emulates the Atari Stereo Sound Mod (second POKEY chip at $D210-$D21F on 800/XL/XE). Stock 800/XL/XE has only one POKEY -- leave this disabled for authentic behavior. Some games (Bounty Bob Strikes Back, Road Race) use POKEY register mirroring tricks that lock up or lose audio when stereo is enabled. The Atari 5200 always uses mono regardless of this setting."
+msgstr ""
+
+msgctxt "#30083"
+msgid "If the Atari800 legacy configuration file, .atari800.cfg, is found, it will be loaded, and if not found, a new will be created."
+msgstr ""
+
+msgctxt "#30084"
+msgid "Video"
+msgstr ""
+
+msgctxt "#30085"
+msgid "Configure video standard (NTSC/PAL).  Enable Hi-res artifacting and set artifacting mode.  Set internal resolution"
+msgstr ""
+
+msgctxt "#30086"
+msgid "Select whether emulated system is NTSC (60hz) or PAL (50hz)"
+msgstr ""
+
+msgctxt "#30087"
+msgid "Set Hi-Res Artifacting mode used.  Typically dependant on the actual emulated system.  Pick the color combination that pleases you."
+msgstr ""
+
+msgctxt "#30088"
+msgid "None "
+msgstr ""
+
+msgctxt "#30089"
+msgid "Set emulated systems internal resolution."
+msgstr ""
+
+msgctxt "#30090"
+msgid "Set emulated color tint between -1.0 and 1.0"
+msgstr ""
+
+msgctxt "#30091"
+msgid "0.00 (Default)"
+msgstr ""
+
+msgctxt "#30092"
+msgid "Set emulated color saturation between -1.0 and 1.0."
+msgstr ""
+
+msgctxt "#30093"
+msgid "Set emulated color contrast between -2.0 and 2.0."
+msgstr ""
+
+msgctxt "#30094"
+msgid "Set emulated color brightness between -2.0 and 2.0."
+msgstr ""
+
+msgctxt "#30095"
+msgid "Set emulated color gamma between 1.0 and 3.5."
+msgstr ""
+
+msgctxt "#30096"
+msgid "2.35 (Default)"
+msgstr ""
+
+msgctxt "#30097"
+msgid "Adjust the GTIA colorburst phase / hue-spread of the generated palette (10-50 degrees). 'Default' keeps the palette's built-in value (26.8 for NTSC, 23.2 for PAL)."
+msgstr ""
+
+msgctxt "#30098"
+msgid "Default"
+msgstr ""
+
+msgctxt "#30099"
+msgid "Use one of the default External Palettes. If this option is selected, it will override any External Palette configured in the Legacy CFG file."
+msgstr ""
+
+msgctxt "#30100"
+msgid "Gray"
+msgstr ""
+
+msgctxt "#30101"
+msgid "Jakub"
+msgstr ""
+
+msgctxt "#30102"
+msgid "Real"
+msgstr ""
+
+msgctxt "#30103"
+msgid "Xformer"
+msgstr ""
+
+msgctxt "#30104"
+msgid "Input"
+msgstr ""
+
+msgctxt "#30105"
+msgid "Configure 5200 Digital and Analog Joystick sensitivity and Analog deadzone.  Activate Swap, Dual Joysticks or Joy 2B+. Activate Paddle mode and set Paddle speed.  Set retroarch keyboard type."
+msgstr ""
+
+msgctxt "#30106"
+msgid "Apply gamepad input hacks required for specific games. 'Dual Stick' maps Player 2's joystick to the right analog stick of Player 1's RetroPad, enabling dual stick control in 'Robotron 2084' and 'Space Dungeon'. 'Swap Ports' maps Player 1 to port 2 and Player 2 to port 1 of the emulated console, correcting the swapped inputs of 'Wizard of Wor', 'Apple Panic' and a few other games. 'Joy 2B+' enables multibutton joysticks support."
+msgstr ""
+
+msgctxt "#30107"
+msgid "Dual Stick"
+msgstr ""
+
+msgctxt "#30108"
+msgid "Swap Ports"
+msgstr ""
+
+msgctxt "#30109"
+msgid "Joy 2B+"
+msgstr ""
+
+msgctxt "#30110"
+msgid "Use analog stick and digital pad to control paddle games.  Dual Stick and Swap Ports will be de-activated if this is enabled"
+msgstr ""
+
+msgctxt "#30111"
+msgid "Determines how fast the paddle will move."
+msgstr ""
+
+msgctxt "#30112"
+msgid "Set the effective range of the emulated analog joystick when using the gamepad's digital D-Pad for movement. Lower values equate to slower speeds.  Also can be used to make games like Centipede, Kaboom, Missile Command, Pengo, Realsports Tennis, Pole Position, Xari Arena and Super Breakout more playable."
+msgstr ""
+
+msgctxt "#30113"
+msgid "5%"
+msgstr ""
+
+msgctxt "#30114"
+msgid "10%"
+msgstr ""
+
+msgctxt "#30115"
+msgid "15%"
+msgstr ""
+
+msgctxt "#30116"
+msgid "20%"
+msgstr ""
+
+msgctxt "#30117"
+msgid "25%"
+msgstr ""
+
+msgctxt "#30118"
+msgid "30%"
+msgstr ""
+
+msgctxt "#30119"
+msgid "35%"
+msgstr ""
+
+msgctxt "#30120"
+msgid "40%"
+msgstr ""
+
+msgctxt "#30121"
+msgid "45%"
+msgstr ""
+
+msgctxt "#30122"
+msgid "50%"
+msgstr ""
+
+msgctxt "#30123"
+msgid "55%"
+msgstr ""
+
+msgctxt "#30124"
+msgid "60%"
+msgstr ""
+
+msgctxt "#30125"
+msgid "65%"
+msgstr ""
+
+msgctxt "#30126"
+msgid "70%"
+msgstr ""
+
+msgctxt "#30127"
+msgid "75%"
+msgstr ""
+
+msgctxt "#30128"
+msgid "80%"
+msgstr ""
+
+msgctxt "#30129"
+msgid "85%"
+msgstr ""
+
+msgctxt "#30130"
+msgid "90%"
+msgstr ""
+
+msgctxt "#30131"
+msgid "95%"
+msgstr ""
+
+msgctxt "#30132"
+msgid "100%"
+msgstr ""
+
+msgctxt "#30133"
+msgid "Set the effective range of the emulated analog joystick when using the gamepad's left analog stick for movement. Lower values equate to slower speeds.  Also can be used to make games like Centipede, Kaboom, Missile Command, Pengo, Realsports Tennis, Pole Position, Xari Arena and Super Breakout more playable."
+msgstr ""
+
+msgctxt "#30134"
+msgid "Set the deadzone of the gamepad's analog sticks. Use this to eliminate controller drift."
+msgstr ""
+
+msgctxt "#30135"
+msgid "0%"
+msgstr ""
+
+msgctxt "#30136"
+msgid "3%"
+msgstr ""
+
+msgctxt "#30137"
+msgid "7%"
+msgstr ""
+
+msgctxt "#30138"
+msgid "13%"
+msgstr ""
+
+msgctxt "#30139"
+msgid "17%"
+msgstr ""
+
+msgctxt "#30140"
+msgid "23%"
+msgstr ""
+
+msgctxt "#30141"
+msgid "27%"
+msgstr ""
+
+msgctxt "#30142"
+msgid "Set whether keyboard is polled or used callback."
+msgstr ""
+
+msgctxt "#30143"
+msgid "Set whether the Atari XEGS keyboard is attached or detached. If 'Internal BASIC' is enabled and the keyboard is attached, it will boot to BASIC. If 'Internal BASIC' is enabled and the keyboard is detached it will boot to the in-built game (Missile Command). If 'Internal BASIC' is disabled, it will boot to the Self Test screen."
+msgstr ""
+
+msgctxt "#30144"
+msgid "Show or hide the on-screen virtual keyboard overlay. It can also be toggled in-game with the mapped controller button (L3 for the Atari joystick, R3 for the 5200). To toggle it with a keyboard key, bind that key to the 'L3' RetroPad button in Settings > Input > Port 1 Controls."
+msgstr ""
+
+msgctxt "#30145"
+msgid ""
+"Joystick and Console Key mappings for\n"
+"\"Atari Keyboard\".\n"
+" \n"
+" Joystick \"Keyboard Numpad 8, 2, 4 & 6\".\n"
+" \n"
+"5200 analog joystick. Left analog stick or \"Keyboard Numpad 8, 2, 4 & 6\".\n"
+" \n"
+"Fire 1 \"Right CTRL\". Fire 2 \"Right ALT\".\n"
+" \n"
+"5200 *  \"Keyboard Numpad * \". # \"Keyboard =\"\n"
+" \n"
+"5200 Keypad 0-9 \"Keyboard 0-9\".\n"
+"Pause \"P\", Reset \"R\".\n"
+" \n"
+"'Console' keys Option \"F2\", Select \"F3\",\n"
+"Start \"F4\".\n"
+" \n"
+"Controller 1 only."
+msgstr ""
+
+msgctxt "#30146"
+msgid "Autofire mode for all joystick ports.  Fire: autofire while the fire button is held.  Always: continuous autofire without holding the button."
+msgstr ""
+
+msgctxt "#30147"
+msgid "While fire held"
+msgstr ""
+
+msgctxt "#30148"
+msgid "Continuous"
+msgstr ""
+
+msgctxt "#30149"
+msgid "Media"
+msgstr ""
+
+msgctxt "#30150"
+msgid "Disk, tape and cartridge loading behaviour: SIO acceleration, cassette boot, binary-load speed, cartridge autodetect, and host P:/R: device redirection."
+msgstr ""
+
+msgctxt "#30151"
+msgid "Enable the P: printer device SIO patch."
+msgstr ""
+
+msgctxt "#30152"
+msgid "Enable the R: serial device SIO patch (Atari 850 emulation / Coder's Cable)."
+msgstr ""
+
+msgctxt "#30153"
+msgid "Load DOS binary (.xex) files at the slower, more accurate original speed instead of instantly."
+msgstr ""
+
+msgctxt "#30154"
+msgid "This enables ALL SIO acceleration.  Enabled improves loading speed for Disk and Cassette images.  Disable only for protected disk (.ATX) and protected cassette images.  Reboot required if change made while loading a cassette image."
+msgstr ""
+
+msgctxt "#30155"
+msgid "Forces emulated system to boot from autoboot cassette images by holding down the \"START\" key on boot."
+msgstr ""
+
+msgctxt "#30156"
+msgid "On-Screen Display"
+msgstr ""
+
+msgctxt "#30157"
+msgid "On-screen indicators drawn over the emulation: emulation speed, disk/tape activity, sector/block counter, and 1200XL LEDs."
+msgstr ""
+
+msgctxt "#30158"
+msgid "Overlay the emulation speed as a percentage on screen."
+msgstr ""
+
+msgctxt "#30159"
+msgid "Overlay a disk-drive / tape activity indicator on screen."
+msgstr ""
+
+msgctxt "#30160"
+msgid "Overlay the current disk sector / tape block number on screen."
+msgstr ""
+
+msgctxt "#30161"
+msgid "Overlay the two 1200XL keyboard LEDs on screen (Atari 1200XL only)."
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Agordoj"
