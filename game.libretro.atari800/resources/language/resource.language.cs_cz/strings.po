@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.atari800\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2020-01-30 02:44i\n"
-"PO-Revision-Date: 2026-08-22 14:13+0000\n"
+"PO-Revision-Date: 2026-08-23 11:37+0000\n"
 "Last-Translator: Michal Várady <miko.vaji@gmail.com>\n"
 "Language-Team: Czech <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-atari800/cs_cz/>\n"
 "Language: cs_cz\n"
@@ -676,6 +676,1442 @@ msgstr "Zobrazit číslo aktuálního sektoru disku / bloku kazety na obrazovce.
 msgctxt "#30161"
 msgid "Overlay the two 1200XL keyboard LEDs on screen (Atari 1200XL only)."
 msgstr "Zobrazit na obrazovce dvě kontrolky klávesnice 1200XL (pouze Atari 1200XL)."
+
+msgctxt "#30162"
+msgid "Rev. A NTSC"
+msgstr "Rev. A NTSC"
+
+msgctxt "#30163"
+msgid "Rev. A PAL"
+msgstr "Rev. A PAL"
+
+msgctxt "#30164"
+msgid "Rev. B NTSC"
+msgstr "Rev. B NTSC"
+
+msgctxt "#30165"
+msgid "AA00 Rev. 10"
+msgstr "AA00 Rev. 10"
+
+msgctxt "#30166"
+msgid "AA01 Rev. 11"
+msgstr "AA01 Rev. 11"
+
+msgctxt "#30167"
+msgid "BB00 Rev. 1"
+msgstr "BB00 Rev. 1"
+
+msgctxt "#30168"
+msgid "BB01 Rev. 2"
+msgstr "BB01 Rev. 2"
+
+msgctxt "#30169"
+msgid "BB02 Rev. 3"
+msgstr "BB02 Rev. 3"
+
+msgctxt "#30170"
+msgid "BB02 Rev. 3 Ver. 4"
+msgstr "BB02 Rev. 3 Ver. 4"
+
+msgctxt "#30171"
+msgid "CC01 Rev. 4"
+msgstr "CC01 Rev. 4"
+
+msgctxt "#30172"
+msgid "BB01 Rev. 3"
+msgstr "BB01 Rev. 3"
+
+msgctxt "#30173"
+msgid "BB01 Rev. 4"
+msgstr "BB01 Rev. 4"
+
+msgctxt "#30174"
+msgid "BB01 Rev. 59"
+msgstr "BB01 Rev. 59"
+
+msgctxt "#30175"
+msgid "BB01 Rev. 59 alt."
+msgstr "BB01 Rev. 59 alt."
+
+msgctxt "#30176"
+msgid "Original"
+msgstr "Původní"
+
+msgctxt "#30177"
+msgid "Rev. A"
+msgstr "Rev. A"
+
+msgctxt "#30178"
+msgid "Rev. B"
+msgstr "Rev. B"
+
+msgctxt "#30179"
+msgid "Rev. C"
+msgstr "Rev. C"
+
+msgctxt "#30180"
+msgid "128 KB"
+msgstr "128 KB"
+
+msgctxt "#30181"
+msgid "256 KB"
+msgstr "256 KB"
+
+msgctxt "#30182"
+msgid "512 KB"
+msgstr "512 KB"
+
+msgctxt "#30183"
+msgid "1 MB"
+msgstr "1 MB"
+
+msgctxt "#30184"
+msgid "2 MB"
+msgstr "2 MB"
+
+msgctxt "#30185"
+msgid "4 MB"
+msgstr "4 MB"
+
+msgctxt "#30186"
+msgid "blue/brown 1"
+msgstr "modrá/hnědá 1"
+
+msgctxt "#30187"
+msgid "blue/brown 2"
+msgstr "modrá/hnědá 2"
+
+msgctxt "#30188"
+msgid "GTIA"
+msgstr "GTIA"
+
+msgctxt "#30189"
+msgid "CTIA"
+msgstr "CTIA"
+
+msgctxt "#30190"
+msgid "-1.00"
+msgstr "-1.00"
+
+msgctxt "#30191"
+msgid "-0.98"
+msgstr "-0.98"
+
+msgctxt "#30192"
+msgid "-0.96"
+msgstr "-0.96"
+
+msgctxt "#30193"
+msgid "-0.94"
+msgstr "-0.94"
+
+msgctxt "#30194"
+msgid "-0.92"
+msgstr "-0.92"
+
+msgctxt "#30195"
+msgid "-0.90"
+msgstr "-0.90"
+
+msgctxt "#30196"
+msgid "-0.88"
+msgstr "-0.88"
+
+msgctxt "#30197"
+msgid "-0.86"
+msgstr "-0.86"
+
+msgctxt "#30198"
+msgid "-0.84"
+msgstr "-0.84"
+
+msgctxt "#30199"
+msgid "-0.82"
+msgstr "-0.82"
+
+msgctxt "#30200"
+msgid "-0.80"
+msgstr "-0.80"
+
+msgctxt "#30201"
+msgid "-0.78"
+msgstr "-0.78"
+
+msgctxt "#30202"
+msgid "-0.76"
+msgstr "-0.76"
+
+msgctxt "#30203"
+msgid "-0.74"
+msgstr "-0.74"
+
+msgctxt "#30204"
+msgid "-0.72"
+msgstr "-0.72"
+
+msgctxt "#30205"
+msgid "-0.70"
+msgstr "-0.70"
+
+msgctxt "#30206"
+msgid "-0.68"
+msgstr "-0.68"
+
+msgctxt "#30207"
+msgid "-0.66"
+msgstr "-0.66"
+
+msgctxt "#30208"
+msgid "-0.64"
+msgstr "-0.64"
+
+msgctxt "#30209"
+msgid "-0.62"
+msgstr "-0.62"
+
+msgctxt "#30210"
+msgid "-0.60"
+msgstr "-0.60"
+
+msgctxt "#30211"
+msgid "-0.58"
+msgstr "-0.58"
+
+msgctxt "#30212"
+msgid "-0.56"
+msgstr "-0.56"
+
+msgctxt "#30213"
+msgid "-0.54"
+msgstr "-0.54"
+
+msgctxt "#30214"
+msgid "-0.52"
+msgstr "-0.52"
+
+msgctxt "#30215"
+msgid "-0.50"
+msgstr "-0.50"
+
+msgctxt "#30216"
+msgid "-0.48"
+msgstr "-0.48"
+
+msgctxt "#30217"
+msgid "-0.46"
+msgstr "-0.46"
+
+msgctxt "#30218"
+msgid "-0.44"
+msgstr "-0.44"
+
+msgctxt "#30219"
+msgid "-0.42"
+msgstr "-0.42"
+
+msgctxt "#30220"
+msgid "-0.40"
+msgstr "-0.40"
+
+msgctxt "#30221"
+msgid "-0.38"
+msgstr "-0.38"
+
+msgctxt "#30222"
+msgid "-0.36"
+msgstr "-0.36"
+
+msgctxt "#30223"
+msgid "-0.34"
+msgstr "-0.34"
+
+msgctxt "#30224"
+msgid "-0.32"
+msgstr "-0.32"
+
+msgctxt "#30225"
+msgid "-0.30"
+msgstr "-0.30"
+
+msgctxt "#30226"
+msgid "-0.28"
+msgstr "-0.28"
+
+msgctxt "#30227"
+msgid "-0.26"
+msgstr "-0.26"
+
+msgctxt "#30228"
+msgid "-0.24"
+msgstr "-0.24"
+
+msgctxt "#30229"
+msgid "-0.22"
+msgstr "-0.22"
+
+msgctxt "#30230"
+msgid "-0.20"
+msgstr "-0.20"
+
+msgctxt "#30231"
+msgid "-0.18"
+msgstr "-0.18"
+
+msgctxt "#30232"
+msgid "-0.16"
+msgstr "-0.16"
+
+msgctxt "#30233"
+msgid "-0.14"
+msgstr "-0.14"
+
+msgctxt "#30234"
+msgid "-0.12"
+msgstr "-0.12"
+
+msgctxt "#30235"
+msgid "-0.10"
+msgstr "-0.10"
+
+msgctxt "#30236"
+msgid "-0.08"
+msgstr "-0.08"
+
+msgctxt "#30237"
+msgid "-0.06"
+msgstr "-0.06"
+
+msgctxt "#30238"
+msgid "-0.04"
+msgstr "-0.04"
+
+msgctxt "#30239"
+msgid "-0.02"
+msgstr "-0.02"
+
+msgctxt "#30240"
+msgid "0.02"
+msgstr "0.02"
+
+msgctxt "#30241"
+msgid "0.04"
+msgstr "0.04"
+
+msgctxt "#30242"
+msgid "0.06"
+msgstr "0.06"
+
+msgctxt "#30243"
+msgid "0.08"
+msgstr "0.08"
+
+msgctxt "#30244"
+msgid "0.10"
+msgstr "0.10"
+
+msgctxt "#30245"
+msgid "0.12"
+msgstr "0.12"
+
+msgctxt "#30246"
+msgid "0.14"
+msgstr "0.14"
+
+msgctxt "#30247"
+msgid "0.16"
+msgstr "0.16"
+
+msgctxt "#30248"
+msgid "0.18"
+msgstr "0.18"
+
+msgctxt "#30249"
+msgid "0.20"
+msgstr "0.20"
+
+msgctxt "#30250"
+msgid "0.22"
+msgstr "0.22"
+
+msgctxt "#30251"
+msgid "0.24"
+msgstr "0.24"
+
+msgctxt "#30252"
+msgid "0.26"
+msgstr "0.26"
+
+msgctxt "#30253"
+msgid "0.28"
+msgstr "0.28"
+
+msgctxt "#30254"
+msgid "0.30"
+msgstr "0.30"
+
+msgctxt "#30255"
+msgid "0.32"
+msgstr "0.32"
+
+msgctxt "#30256"
+msgid "0.34"
+msgstr "0.34"
+
+msgctxt "#30257"
+msgid "0.36"
+msgstr "0.36"
+
+msgctxt "#30258"
+msgid "0.38"
+msgstr "0.38"
+
+msgctxt "#30259"
+msgid "0.40"
+msgstr "0.40"
+
+msgctxt "#30260"
+msgid "0.42"
+msgstr "0.42"
+
+msgctxt "#30261"
+msgid "0.44"
+msgstr "0.44"
+
+msgctxt "#30262"
+msgid "0.46"
+msgstr "0.46"
+
+msgctxt "#30263"
+msgid "0.48"
+msgstr "0.48"
+
+msgctxt "#30264"
+msgid "0.50"
+msgstr "0.50"
+
+msgctxt "#30265"
+msgid "0.52"
+msgstr "0.52"
+
+msgctxt "#30266"
+msgid "0.54"
+msgstr "0.54"
+
+msgctxt "#30267"
+msgid "0.56"
+msgstr "0.56"
+
+msgctxt "#30268"
+msgid "0.58"
+msgstr "0.58"
+
+msgctxt "#30269"
+msgid "0.60"
+msgstr "0.60"
+
+msgctxt "#30270"
+msgid "0.62"
+msgstr "0.62"
+
+msgctxt "#30271"
+msgid "0.64"
+msgstr "0.64"
+
+msgctxt "#30272"
+msgid "0.66"
+msgstr "0.66"
+
+msgctxt "#30273"
+msgid "0.68"
+msgstr "0.68"
+
+msgctxt "#30274"
+msgid "0.70"
+msgstr "0.70"
+
+msgctxt "#30275"
+msgid "0.72"
+msgstr "0.72"
+
+msgctxt "#30276"
+msgid "0.74"
+msgstr "0.74"
+
+msgctxt "#30277"
+msgid "0.76"
+msgstr "0.76"
+
+msgctxt "#30278"
+msgid "0.78"
+msgstr "0.78"
+
+msgctxt "#30279"
+msgid "0.80"
+msgstr "0.80"
+
+msgctxt "#30280"
+msgid "0.82"
+msgstr "0.82"
+
+msgctxt "#30281"
+msgid "0.84"
+msgstr "0.84"
+
+msgctxt "#30282"
+msgid "0.86"
+msgstr "0.86"
+
+msgctxt "#30283"
+msgid "0.88"
+msgstr "0.88"
+
+msgctxt "#30284"
+msgid "0.90"
+msgstr "0.90"
+
+msgctxt "#30285"
+msgid "0.92"
+msgstr "0.92"
+
+msgctxt "#30286"
+msgid "0.94"
+msgstr "0.94"
+
+msgctxt "#30287"
+msgid "0.96"
+msgstr "0.96"
+
+msgctxt "#30288"
+msgid "0.98"
+msgstr "0.98"
+
+msgctxt "#30289"
+msgid "1.00"
+msgstr "1.00"
+
+msgctxt "#30290"
+msgid "-2.00"
+msgstr "-2.00"
+
+msgctxt "#30291"
+msgid "-1.96"
+msgstr "-1.96"
+
+msgctxt "#30292"
+msgid "-1.92"
+msgstr "-1.92"
+
+msgctxt "#30293"
+msgid "-1.88"
+msgstr "-1.88"
+
+msgctxt "#30294"
+msgid "-1.84"
+msgstr "-1.84"
+
+msgctxt "#30295"
+msgid "-1.80"
+msgstr "-1.80"
+
+msgctxt "#30296"
+msgid "-1.76"
+msgstr "-1.76"
+
+msgctxt "#30297"
+msgid "-1.72"
+msgstr "-1.72"
+
+msgctxt "#30298"
+msgid "-1.68"
+msgstr "-1.68"
+
+msgctxt "#30299"
+msgid "-1.64"
+msgstr "-1.64"
+
+msgctxt "#30300"
+msgid "-1.60"
+msgstr "-1.60"
+
+msgctxt "#30301"
+msgid "-1.56"
+msgstr "-1.56"
+
+msgctxt "#30302"
+msgid "-1.52"
+msgstr "-1.52"
+
+msgctxt "#30303"
+msgid "-1.48"
+msgstr "-1.48"
+
+msgctxt "#30304"
+msgid "-1.44"
+msgstr "-1.44"
+
+msgctxt "#30305"
+msgid "-1.40"
+msgstr "-1.40"
+
+msgctxt "#30306"
+msgid "-1.36"
+msgstr "-1.36"
+
+msgctxt "#30307"
+msgid "-1.32"
+msgstr "-1.32"
+
+msgctxt "#30308"
+msgid "-1.28"
+msgstr "-1.28"
+
+msgctxt "#30309"
+msgid "-1.24"
+msgstr "-1.24"
+
+msgctxt "#30310"
+msgid "-1.20"
+msgstr "-1.20"
+
+msgctxt "#30311"
+msgid "-1.16"
+msgstr "-1.16"
+
+msgctxt "#30312"
+msgid "-1.12"
+msgstr "-1.12"
+
+msgctxt "#30313"
+msgid "-1.08"
+msgstr "-1.08"
+
+msgctxt "#30314"
+msgid "-1.04"
+msgstr "-1.04"
+
+msgctxt "#30315"
+msgid "1.04"
+msgstr "1.04"
+
+msgctxt "#30316"
+msgid "1.08"
+msgstr "1.08"
+
+msgctxt "#30317"
+msgid "1.12"
+msgstr "1.12"
+
+msgctxt "#30318"
+msgid "1.16"
+msgstr "1.16"
+
+msgctxt "#30319"
+msgid "1.20"
+msgstr "1.20"
+
+msgctxt "#30320"
+msgid "1.24"
+msgstr "1.24"
+
+msgctxt "#30321"
+msgid "1.28"
+msgstr "1.28"
+
+msgctxt "#30322"
+msgid "1.32"
+msgstr "1.32"
+
+msgctxt "#30323"
+msgid "1.36"
+msgstr "1.36"
+
+msgctxt "#30324"
+msgid "1.40"
+msgstr "1.40"
+
+msgctxt "#30325"
+msgid "1.44"
+msgstr "1.44"
+
+msgctxt "#30326"
+msgid "1.48"
+msgstr "1.48"
+
+msgctxt "#30327"
+msgid "1.52"
+msgstr "1.52"
+
+msgctxt "#30328"
+msgid "1.56"
+msgstr "1.56"
+
+msgctxt "#30329"
+msgid "1.60"
+msgstr "1.60"
+
+msgctxt "#30330"
+msgid "1.64"
+msgstr "1.64"
+
+msgctxt "#30331"
+msgid "1.68"
+msgstr "1.68"
+
+msgctxt "#30332"
+msgid "1.72"
+msgstr "1.72"
+
+msgctxt "#30333"
+msgid "1.76"
+msgstr "1.76"
+
+msgctxt "#30334"
+msgid "1.80"
+msgstr "1.80"
+
+msgctxt "#30335"
+msgid "1.84"
+msgstr "1.84"
+
+msgctxt "#30336"
+msgid "1.88"
+msgstr "1.88"
+
+msgctxt "#30337"
+msgid "1.92"
+msgstr "1.92"
+
+msgctxt "#30338"
+msgid "1.96"
+msgstr "1.96"
+
+msgctxt "#30339"
+msgid "2.00"
+msgstr "2.00"
+
+msgctxt "#30340"
+msgid "1.02"
+msgstr "1.02"
+
+msgctxt "#30341"
+msgid "1.06"
+msgstr "1.06"
+
+msgctxt "#30342"
+msgid "1.10"
+msgstr "1.10"
+
+msgctxt "#30343"
+msgid "1.14"
+msgstr "1.14"
+
+msgctxt "#30344"
+msgid "1.18"
+msgstr "1.18"
+
+msgctxt "#30345"
+msgid "1.22"
+msgstr "1.22"
+
+msgctxt "#30346"
+msgid "1.26"
+msgstr "1.26"
+
+msgctxt "#30347"
+msgid "1.30"
+msgstr "1.30"
+
+msgctxt "#30348"
+msgid "1.34"
+msgstr "1.34"
+
+msgctxt "#30349"
+msgid "1.38"
+msgstr "1.38"
+
+msgctxt "#30350"
+msgid "1.42"
+msgstr "1.42"
+
+msgctxt "#30351"
+msgid "1.46"
+msgstr "1.46"
+
+msgctxt "#30352"
+msgid "1.50"
+msgstr "1.50"
+
+msgctxt "#30353"
+msgid "1.54"
+msgstr "1.54"
+
+msgctxt "#30354"
+msgid "1.58"
+msgstr "1.58"
+
+msgctxt "#30355"
+msgid "1.62"
+msgstr "1.62"
+
+msgctxt "#30356"
+msgid "1.66"
+msgstr "1.66"
+
+msgctxt "#30357"
+msgid "1.70"
+msgstr "1.70"
+
+msgctxt "#30358"
+msgid "1.74"
+msgstr "1.74"
+
+msgctxt "#30359"
+msgid "1.78"
+msgstr "1.78"
+
+msgctxt "#30360"
+msgid "1.82"
+msgstr "1.82"
+
+msgctxt "#30361"
+msgid "1.86"
+msgstr "1.86"
+
+msgctxt "#30362"
+msgid "1.90"
+msgstr "1.90"
+
+msgctxt "#30363"
+msgid "1.94"
+msgstr "1.94"
+
+msgctxt "#30364"
+msgid "1.98"
+msgstr "1.98"
+
+msgctxt "#30365"
+msgid "2.02"
+msgstr "2.02"
+
+msgctxt "#30366"
+msgid "2.04"
+msgstr "2.04"
+
+msgctxt "#30367"
+msgid "2.06"
+msgstr "2.06"
+
+msgctxt "#30368"
+msgid "2.08"
+msgstr "2.08"
+
+msgctxt "#30369"
+msgid "2.10"
+msgstr "2.10"
+
+msgctxt "#30370"
+msgid "2.12"
+msgstr "2.12"
+
+msgctxt "#30371"
+msgid "2.14"
+msgstr "2.14"
+
+msgctxt "#30372"
+msgid "2.16"
+msgstr "2.16"
+
+msgctxt "#30373"
+msgid "2.18"
+msgstr "2.18"
+
+msgctxt "#30374"
+msgid "2.20"
+msgstr "2.20"
+
+msgctxt "#30375"
+msgid "2.22"
+msgstr "2.22"
+
+msgctxt "#30376"
+msgid "2.24"
+msgstr "2.24"
+
+msgctxt "#30377"
+msgid "2.26"
+msgstr "2.26"
+
+msgctxt "#30378"
+msgid "2.28"
+msgstr "2.28"
+
+msgctxt "#30379"
+msgid "2.30"
+msgstr "2.30"
+
+msgctxt "#30380"
+msgid "2.32"
+msgstr "2.32"
+
+msgctxt "#30381"
+msgid "2.34"
+msgstr "2.34"
+
+msgctxt "#30382"
+msgid "2.36"
+msgstr "2.36"
+
+msgctxt "#30383"
+msgid "2.38"
+msgstr "2.38"
+
+msgctxt "#30384"
+msgid "2.40"
+msgstr "2.40"
+
+msgctxt "#30385"
+msgid "2.42"
+msgstr "2.42"
+
+msgctxt "#30386"
+msgid "2.44"
+msgstr "2.44"
+
+msgctxt "#30387"
+msgid "2.46"
+msgstr "2.46"
+
+msgctxt "#30388"
+msgid "2.48"
+msgstr "2.48"
+
+msgctxt "#30389"
+msgid "2.50"
+msgstr "2.50"
+
+msgctxt "#30390"
+msgid "2.52"
+msgstr "2.52"
+
+msgctxt "#30391"
+msgid "2.54"
+msgstr "2.54"
+
+msgctxt "#30392"
+msgid "2.56"
+msgstr "2.56"
+
+msgctxt "#30393"
+msgid "2.58"
+msgstr "2.58"
+
+msgctxt "#30394"
+msgid "2.60"
+msgstr "2.60"
+
+msgctxt "#30395"
+msgid "2.62"
+msgstr "2.62"
+
+msgctxt "#30396"
+msgid "2.64"
+msgstr "2.64"
+
+msgctxt "#30397"
+msgid "2.66"
+msgstr "2.66"
+
+msgctxt "#30398"
+msgid "2.68"
+msgstr "2.68"
+
+msgctxt "#30399"
+msgid "2.70"
+msgstr "2.70"
+
+msgctxt "#30400"
+msgid "2.72"
+msgstr "2.72"
+
+msgctxt "#30401"
+msgid "2.74"
+msgstr "2.74"
+
+msgctxt "#30402"
+msgid "2.76"
+msgstr "2.76"
+
+msgctxt "#30403"
+msgid "2.78"
+msgstr "2.78"
+
+msgctxt "#30404"
+msgid "2.80"
+msgstr "2.80"
+
+msgctxt "#30405"
+msgid "2.82"
+msgstr "2.82"
+
+msgctxt "#30406"
+msgid "2.84"
+msgstr "2.84"
+
+msgctxt "#30407"
+msgid "2.86"
+msgstr "2.86"
+
+msgctxt "#30408"
+msgid "2.88"
+msgstr "2.88"
+
+msgctxt "#30409"
+msgid "2.90"
+msgstr "2.90"
+
+msgctxt "#30410"
+msgid "2.92"
+msgstr "2.92"
+
+msgctxt "#30411"
+msgid "2.94"
+msgstr "2.94"
+
+msgctxt "#30412"
+msgid "2.96"
+msgstr "2.96"
+
+msgctxt "#30413"
+msgid "2.98"
+msgstr "2.98"
+
+msgctxt "#30414"
+msgid "3.00"
+msgstr "3.00"
+
+msgctxt "#30415"
+msgid "3.02"
+msgstr "3.02"
+
+msgctxt "#30416"
+msgid "3.04"
+msgstr "3.04"
+
+msgctxt "#30417"
+msgid "3.06"
+msgstr "3.06"
+
+msgctxt "#30418"
+msgid "3.08"
+msgstr "3.08"
+
+msgctxt "#30419"
+msgid "3.10"
+msgstr "3.10"
+
+msgctxt "#30420"
+msgid "3.12"
+msgstr "3.12"
+
+msgctxt "#30421"
+msgid "3.14"
+msgstr "3.14"
+
+msgctxt "#30422"
+msgid "3.16"
+msgstr "3.16"
+
+msgctxt "#30423"
+msgid "3.18"
+msgstr "3.18"
+
+msgctxt "#30424"
+msgid "3.20"
+msgstr "3.20"
+
+msgctxt "#30425"
+msgid "3.22"
+msgstr "3.22"
+
+msgctxt "#30426"
+msgid "3.24"
+msgstr "3.24"
+
+msgctxt "#30427"
+msgid "3.26"
+msgstr "3.26"
+
+msgctxt "#30428"
+msgid "3.28"
+msgstr "3.28"
+
+msgctxt "#30429"
+msgid "3.30"
+msgstr "3.30"
+
+msgctxt "#30430"
+msgid "3.32"
+msgstr "3.32"
+
+msgctxt "#30431"
+msgid "3.34"
+msgstr "3.34"
+
+msgctxt "#30432"
+msgid "3.36"
+msgstr "3.36"
+
+msgctxt "#30433"
+msgid "3.38"
+msgstr "3.38"
+
+msgctxt "#30434"
+msgid "3.40"
+msgstr "3.40"
+
+msgctxt "#30435"
+msgid "3.42"
+msgstr "3.42"
+
+msgctxt "#30436"
+msgid "3.44"
+msgstr "3.44"
+
+msgctxt "#30437"
+msgid "3.46"
+msgstr "3.46"
+
+msgctxt "#30438"
+msgid "3.48"
+msgstr "3.48"
+
+msgctxt "#30439"
+msgid "3.50"
+msgstr "3.50"
+
+msgctxt "#30440"
+msgid "10.00"
+msgstr "10.00"
+
+msgctxt "#30441"
+msgid "10.50"
+msgstr "10.50"
+
+msgctxt "#30442"
+msgid "11.00"
+msgstr "11.00"
+
+msgctxt "#30443"
+msgid "11.50"
+msgstr "11.50"
+
+msgctxt "#30444"
+msgid "12.00"
+msgstr "12.00"
+
+msgctxt "#30445"
+msgid "12.50"
+msgstr "12.50"
+
+msgctxt "#30446"
+msgid "13.00"
+msgstr "13.00"
+
+msgctxt "#30447"
+msgid "13.50"
+msgstr "13.50"
+
+msgctxt "#30448"
+msgid "14.00"
+msgstr "14.00"
+
+msgctxt "#30449"
+msgid "14.50"
+msgstr "14.50"
+
+msgctxt "#30450"
+msgid "15.00"
+msgstr "15.00"
+
+msgctxt "#30451"
+msgid "15.50"
+msgstr "15.50"
+
+msgctxt "#30452"
+msgid "16.00"
+msgstr "16.00"
+
+msgctxt "#30453"
+msgid "16.50"
+msgstr "16.50"
+
+msgctxt "#30454"
+msgid "17.00"
+msgstr "17.00"
+
+msgctxt "#30455"
+msgid "17.50"
+msgstr "17.50"
+
+msgctxt "#30456"
+msgid "18.00"
+msgstr "18.00"
+
+msgctxt "#30457"
+msgid "18.50"
+msgstr "18.50"
+
+msgctxt "#30458"
+msgid "19.00"
+msgstr "19.00"
+
+msgctxt "#30459"
+msgid "19.50"
+msgstr "19.50"
+
+msgctxt "#30460"
+msgid "20.00"
+msgstr "20.00"
+
+msgctxt "#30461"
+msgid "20.50"
+msgstr "20.50"
+
+msgctxt "#30462"
+msgid "21.00"
+msgstr "21.00"
+
+msgctxt "#30463"
+msgid "21.50"
+msgstr "21.50"
+
+msgctxt "#30464"
+msgid "22.00"
+msgstr "22.00"
+
+msgctxt "#30465"
+msgid "22.50"
+msgstr "22.50"
+
+msgctxt "#30466"
+msgid "23.00"
+msgstr "23.00"
+
+msgctxt "#30467"
+msgid "23.50"
+msgstr "23.50"
+
+msgctxt "#30468"
+msgid "24.00"
+msgstr "24.00"
+
+msgctxt "#30469"
+msgid "24.50"
+msgstr "24.50"
+
+msgctxt "#30470"
+msgid "25.00"
+msgstr "25.00"
+
+msgctxt "#30471"
+msgid "25.50"
+msgstr "25.50"
+
+msgctxt "#30472"
+msgid "26.00"
+msgstr "26.00"
+
+msgctxt "#30473"
+msgid "26.50"
+msgstr "26.50"
+
+msgctxt "#30474"
+msgid "27.00"
+msgstr "27.00"
+
+msgctxt "#30475"
+msgid "27.50"
+msgstr "27.50"
+
+msgctxt "#30476"
+msgid "28.00"
+msgstr "28.00"
+
+msgctxt "#30477"
+msgid "28.50"
+msgstr "28.50"
+
+msgctxt "#30478"
+msgid "29.00"
+msgstr "29.00"
+
+msgctxt "#30479"
+msgid "29.50"
+msgstr "29.50"
+
+msgctxt "#30480"
+msgid "30.00"
+msgstr "30.00"
+
+msgctxt "#30481"
+msgid "30.50"
+msgstr "30.50"
+
+msgctxt "#30482"
+msgid "31.00"
+msgstr "31.00"
+
+msgctxt "#30483"
+msgid "31.50"
+msgstr "31.50"
+
+msgctxt "#30484"
+msgid "32.00"
+msgstr "32.00"
+
+msgctxt "#30485"
+msgid "32.50"
+msgstr "32.50"
+
+msgctxt "#30486"
+msgid "33.00"
+msgstr "33.00"
+
+msgctxt "#30487"
+msgid "33.50"
+msgstr "33.50"
+
+msgctxt "#30488"
+msgid "34.00"
+msgstr "34.00"
+
+msgctxt "#30489"
+msgid "34.50"
+msgstr "34.50"
+
+msgctxt "#30490"
+msgid "35.00"
+msgstr "35.00"
+
+msgctxt "#30491"
+msgid "35.50"
+msgstr "35.50"
+
+msgctxt "#30492"
+msgid "36.00"
+msgstr "36.00"
+
+msgctxt "#30493"
+msgid "36.50"
+msgstr "36.50"
+
+msgctxt "#30494"
+msgid "37.00"
+msgstr "37.00"
+
+msgctxt "#30495"
+msgid "37.50"
+msgstr "37.50"
+
+msgctxt "#30496"
+msgid "38.00"
+msgstr "38.00"
+
+msgctxt "#30497"
+msgid "38.50"
+msgstr "38.50"
+
+msgctxt "#30498"
+msgid "39.00"
+msgstr "39.00"
+
+msgctxt "#30499"
+msgid "39.50"
+msgstr "39.50"
+
+msgctxt "#30500"
+msgid "40.00"
+msgstr "40.00"
+
+msgctxt "#30501"
+msgid "40.50"
+msgstr "40.50"
+
+msgctxt "#30502"
+msgid "41.00"
+msgstr "41.00"
+
+msgctxt "#30503"
+msgid "41.50"
+msgstr "41.50"
+
+msgctxt "#30504"
+msgid "42.00"
+msgstr "42.00"
+
+msgctxt "#30505"
+msgid "42.50"
+msgstr "42.50"
+
+msgctxt "#30506"
+msgid "43.00"
+msgstr "43.00"
+
+msgctxt "#30507"
+msgid "43.50"
+msgstr "43.50"
+
+msgctxt "#30508"
+msgid "44.00"
+msgstr "44.00"
+
+msgctxt "#30509"
+msgid "44.50"
+msgstr "44.50"
+
+msgctxt "#30510"
+msgid "45.00"
+msgstr "45.00"
+
+msgctxt "#30511"
+msgid "45.50"
+msgstr "45.50"
+
+msgctxt "#30512"
+msgid "46.00"
+msgstr "46.00"
+
+msgctxt "#30513"
+msgid "46.50"
+msgstr "46.50"
+
+msgctxt "#30514"
+msgid "47.00"
+msgstr "47.00"
+
+msgctxt "#30515"
+msgid "47.50"
+msgstr "47.50"
+
+msgctxt "#30516"
+msgid "48.00"
+msgstr "48.00"
+
+msgctxt "#30517"
+msgid "48.50"
+msgstr "48.50"
+
+msgctxt "#30518"
+msgid "49.00"
+msgstr "49.00"
+
+msgctxt "#30519"
+msgid "49.50"
+msgstr "49.50"
+
+msgctxt "#30520"
+msgid "50.00"
+msgstr "50.00"
 
 #~ msgctxt "#30028"
 #~ msgid "Legacy menu key"
