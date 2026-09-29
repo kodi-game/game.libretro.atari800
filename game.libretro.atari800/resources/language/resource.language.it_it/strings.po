@@ -7,15 +7,15 @@ msgstr ""
 "Project-Id-Version: game.libretro.atari800\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2020-01-30 02:44i\n"
-"PO-Revision-Date: 2026-08-23 09:08+0000\n"
-"Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
+"PO-Revision-Date: 2026-09-29 03:35+0000\n"
+"Last-Translator: Automatic translation add-on <noreply-addon-autotranslate@weblate.org>\n"
 "Language-Team: Italian <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-atari800/it_it/>\n"
 "Language: it_it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.8.1\n"
+"X-Generator: Weblate 2026.9.1\n"
 
 msgctxt "Addon Summary"
 msgid "Atari - 400/800/600XL/800XL/130XE/5200 (Atari800)"
@@ -1187,7 +1187,7 @@ msgstr ""
 
 msgctxt "#30289"
 msgid "1.00"
-msgstr ""
+msgstr "1.00"
 
 msgctxt "#30290"
 msgid "-2.00"
@@ -1307,7 +1307,7 @@ msgstr ""
 
 msgctxt "#30319"
 msgid "1.20"
-msgstr ""
+msgstr "1.20"
 
 msgctxt "#30320"
 msgid "1.24"
@@ -1327,7 +1327,7 @@ msgstr ""
 
 msgctxt "#30324"
 msgid "1.40"
-msgstr ""
+msgstr "1.40"
 
 msgctxt "#30325"
 msgid "1.44"
@@ -1347,7 +1347,7 @@ msgstr ""
 
 msgctxt "#30329"
 msgid "1.60"
-msgstr ""
+msgstr "1.60"
 
 msgctxt "#30330"
 msgid "1.64"
@@ -1367,7 +1367,7 @@ msgstr ""
 
 msgctxt "#30334"
 msgid "1.80"
-msgstr ""
+msgstr "1.80"
 
 msgctxt "#30335"
 msgid "1.84"
@@ -1387,7 +1387,7 @@ msgstr ""
 
 msgctxt "#30339"
 msgid "2.00"
-msgstr ""
+msgstr "2.00"
 
 msgctxt "#30340"
 msgid "1.02"
@@ -1399,7 +1399,7 @@ msgstr ""
 
 msgctxt "#30342"
 msgid "1.10"
-msgstr ""
+msgstr "1.10"
 
 msgctxt "#30343"
 msgid "1.14"
@@ -1419,7 +1419,7 @@ msgstr ""
 
 msgctxt "#30347"
 msgid "1.30"
-msgstr ""
+msgstr "1.30"
 
 msgctxt "#30348"
 msgid "1.34"
@@ -1439,7 +1439,7 @@ msgstr ""
 
 msgctxt "#30352"
 msgid "1.50"
-msgstr ""
+msgstr "1.50"
 
 msgctxt "#30353"
 msgid "1.54"
@@ -1459,7 +1459,7 @@ msgstr ""
 
 msgctxt "#30357"
 msgid "1.70"
-msgstr ""
+msgstr "1.70"
 
 msgctxt "#30358"
 msgid "1.74"
@@ -1479,7 +1479,7 @@ msgstr ""
 
 msgctxt "#30362"
 msgid "1.90"
-msgstr ""
+msgstr "1.90"
 
 msgctxt "#30363"
 msgid "1.94"
@@ -1495,7 +1495,7 @@ msgstr ""
 
 msgctxt "#30366"
 msgid "2.04"
-msgstr ""
+msgstr "2.04"
 
 msgctxt "#30367"
 msgid "2.06"
@@ -1507,7 +1507,7 @@ msgstr ""
 
 msgctxt "#30369"
 msgid "2.10"
-msgstr ""
+msgstr "2.10"
 
 msgctxt "#30370"
 msgid "2.12"
@@ -1527,7 +1527,7 @@ msgstr ""
 
 msgctxt "#30374"
 msgid "2.20"
-msgstr ""
+msgstr "2.20"
 
 msgctxt "#30375"
 msgid "2.22"
@@ -1547,7 +1547,7 @@ msgstr ""
 
 msgctxt "#30379"
 msgid "2.30"
-msgstr ""
+msgstr "2.30"
 
 msgctxt "#30380"
 msgid "2.32"
@@ -1567,7 +1567,7 @@ msgstr ""
 
 msgctxt "#30384"
 msgid "2.40"
-msgstr ""
+msgstr "2.40"
 
 msgctxt "#30385"
 msgid "2.42"
@@ -1587,7 +1587,7 @@ msgstr ""
 
 msgctxt "#30389"
 msgid "2.50"
-msgstr ""
+msgstr "2.50"
 
 msgctxt "#30390"
 msgid "2.52"
@@ -1607,7 +1607,7 @@ msgstr ""
 
 msgctxt "#30394"
 msgid "2.60"
-msgstr ""
+msgstr "2.60"
 
 msgctxt "#30395"
 msgid "2.62"
@@ -1627,7 +1627,7 @@ msgstr ""
 
 msgctxt "#30399"
 msgid "2.70"
-msgstr ""
+msgstr "2.70"
 
 msgctxt "#30400"
 msgid "2.72"
@@ -1647,7 +1647,7 @@ msgstr ""
 
 msgctxt "#30404"
 msgid "2.80"
-msgstr ""
+msgstr "2.80"
 
 msgctxt "#30405"
 msgid "2.82"
@@ -1667,7 +1667,7 @@ msgstr ""
 
 msgctxt "#30409"
 msgid "2.90"
-msgstr ""
+msgstr "2.90"
 
 msgctxt "#30410"
 msgid "2.92"
@@ -1687,7 +1687,7 @@ msgstr ""
 
 msgctxt "#30414"
 msgid "3.00"
-msgstr ""
+msgstr "3.00"
 
 msgctxt "#30415"
 msgid "3.02"
@@ -1707,7 +1707,7 @@ msgstr ""
 
 msgctxt "#30419"
 msgid "3.10"
-msgstr ""
+msgstr "3.10"
 
 msgctxt "#30420"
 msgid "3.12"
@@ -1727,7 +1727,7 @@ msgstr ""
 
 msgctxt "#30424"
 msgid "3.20"
-msgstr ""
+msgstr "3.20"
 
 msgctxt "#30425"
 msgid "3.22"
@@ -1747,7 +1747,7 @@ msgstr ""
 
 msgctxt "#30429"
 msgid "3.30"
-msgstr ""
+msgstr "3.30"
 
 msgctxt "#30430"
 msgid "3.32"
@@ -1767,7 +1767,7 @@ msgstr ""
 
 msgctxt "#30434"
 msgid "3.40"
-msgstr ""
+msgstr "3.40"
 
 msgctxt "#30435"
 msgid "3.42"
@@ -1787,7 +1787,7 @@ msgstr ""
 
 msgctxt "#30439"
 msgid "3.50"
-msgstr ""
+msgstr "3.50"
 
 msgctxt "#30440"
 msgid "10.00"
