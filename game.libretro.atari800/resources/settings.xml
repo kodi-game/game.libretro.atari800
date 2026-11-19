@@ -1022,7 +1022,7 @@
 				</setting>
 				<setting id="pot_analog_deadzone" type="string" label="30017" help="30134">
 					<level>0</level>
-					<default>15</default>
+					<default>0</default>
 					<constraints>
 						<options>
 							<option label="30135">0</option>
